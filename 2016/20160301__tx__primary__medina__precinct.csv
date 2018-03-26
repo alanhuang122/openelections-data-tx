@@ -1,0 +1,1233 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day
+Medina,1A,Registered Voters - Total,,,,1249,,
+Medina,1A,President,,REP,Carly Fiorina,1,1,0
+Medina,1A,President,,REP,Rick Santorum,0,0,0
+Medina,1A,President,,REP,Marco Rubio,82,52,30
+Medina,1A,President,,REP,Rand Paul,2,0,2
+Medina,1A,President,,REP,Mike Huckabee,1,1,0
+Medina,1A,President,,REP,Elizabeth Gray,0,0,0
+Medina,1A,President,,REP,Chris Christie,0,0,0
+Medina,1A,President,,REP,Jeb Bush,13,12,1
+Medina,1A,President,,REP,Ted Cruz,264,164,100
+Medina,1A,President,,REP,Lindsey Graham,0,0,0
+Medina,1A,President,,REP,Ben Carson,30,23,7
+Medina,1A,President,,REP,Donald J. Trump,178,121,57
+Medina,1A,President,,REP,John R. Kasich,9,5,4
+Medina,1A,President,,REP,Uncommitted,13,9,4
+Medina,1A,President,,DEM,Willie L. Wilson,0,0,0
+Medina,1A,President,,DEM,Star Locke,0,0,0
+Medina,1A,President,,DEM,Hillary Clinton,28,16,12
+Medina,1A,President,,DEM,Keith Judd,0,0,0
+Medina,1A,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
+Medina,1A,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,1A,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,1A,President,,DEM,Bernie Sanders,17,9,8
+Medina,1A,U.S. House,23,REP,"William ""Hart"" Peterson",69,43,26
+Medina,1A,U.S. House,23,REP,Will Hurd,483,330,153
+Medina,1A,U.S. House,23,DEM,Lee Keenen,9,5,4
+Medina,1A,U.S. House,23,DEM,Pete P. Gallego,34,20,14
+Medina,1A,Railroad Commissioner,,REP,Gary Gates,149,107,42
+Medina,1A,Railroad Commissioner,,REP,John Greytok,16,12,4
+Medina,1A,Railroad Commissioner,,REP,Weston Martinez,29,18,11
+Medina,1A,Railroad Commissioner,,REP,Ron Hale,53,28,25
+Medina,1A,Railroad Commissioner,,REP,Lance N. Christian,57,37,20
+Medina,1A,Railroad Commissioner,,REP,Doug Jeffrey,33,22,11
+Medina,1A,Railroad Commissioner,,REP,Wayne Christian,111,79,32
+Medina,1A,Railroad Commissioner,,DEM,Lon Burnam,9,7,2
+Medina,1A,Railroad Commissioner,,DEM,Grady Yarbrough,14,7,7
+Medina,1A,Railroad Commissioner,,DEM,Cody Garrett,11,7,4
+Medina,1A,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,315,216,99
+Medina,1A,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,166,110,56
+Medina,1A,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,33,20,13
+Medina,1A,"Justice, Supreme Court Place 5",,REP,Rick Green,254,161,93
+Medina,1A,"Justice, Supreme Court Place 5",,REP,Paul Green,203,147,56
+Medina,1A,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,31,21,10
+Medina,1A,"Justice, Supreme Court Place 9",,REP,Joe Pool,276,185,91
+Medina,1A,"Justice, Supreme Court Place 9",,REP,Eva Guzman,193,126,67
+Medina,1A,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,32,19,13
+Medina,1A,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,145,98,47
+Medina,1A,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,192,135,57
+Medina,1A,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,90,54,36
+Medina,1A,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",32,19,13
+Medina,1A,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,202,127,75
+Medina,1A,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,51,42,9
+Medina,1A,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,86,54,32
+Medina,1A,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,114,82,32
+Medina,1A,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,33,20,13
+Medina,1A,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,236,156,80
+Medina,1A,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,189,130,59
+Medina,1A,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,32,20,12
+Medina,1A,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,15,11,4
+Medina,1A,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,16,8,8
+Medina,1A,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",4,3,1
+Medina,1A,State Senator,19,REP,Peter P. Flores,400,265,135
+Medina,1A,State Senator,19,DEM,Helen Madia,17,10,7
+Medina,1A,State Senator,19,DEM,Carlos I. Uresti ,22,12,10
+Medina,1A,State Representative,53,REP,Andrew Murr,453,306,147
+Medina,1A,State Representative,53,DEM,Stephanie Lochte Ertel,29,17,12
+Medina,1A,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,404,274,130
+Medina,1A,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,32,21,11
+Medina,1A,PROPOSITION 1,,REP,FOR,414,279,135
+Medina,1A,PROPOSITION 1,,REP,AGAINST,134,84,50
+Medina,1A,PROPOSITION 2,,REP,FOR,371,240,131
+Medina,1A,PROPOSITION 2,,REP,AGAINST,195,135,60
+Medina,1A,PROPOSITION 3,,REP,FOR,468,310,158
+Medina,1A,PROPOSITION 3,,REP,AGAINST,75,51,24
+Medina,1A,PROPOSITION 4,,REP,FOR,547,361,186
+Medina,1A,PROPOSITION 4,,REP,AGAINST,15,9,6
+Medina,1A,REFERENDA ITEM 1,,DEM,FOR,37,22,15
+Medina,1A,REFERENDA ITEM 1,,DEM,AGAINST,6,3,3
+Medina,1A,REFERENDA ITEM 2,,DEM,FOR,40,23,17
+Medina,1A,REFERENDA ITEM 2,,DEM,AGAINST,3,2,1
+Medina,1A,REFERENDA ITEM 3,,DEM,FOR,40,23,17
+Medina,1A,REFERENDA ITEM 3,,DEM,AGAINST,5,3,2
+Medina,1A,REFERENDA ITEM 4,,DEM,FOR,37,23,14
+Medina,1A,REFERENDA ITEM 4,,DEM,AGAINST,4,2,2
+Medina,1A,REFERENDA ITEM 5,,DEM,FOR,34,19,15
+Medina,1A,REFERENDA ITEM 5,,DEM,AGAINST,10,6,4
+Medina,1A,REFERENDA ITEM 6,,DEM,FOR,39,24,15
+Medina,1A,REFERENDA ITEM 6,,DEM,AGAINST,6,2,4
+Medina,1B,Registered Voters - Total,,,,1465,,
+Medina,1B,President,,REP,Carly Fiorina,1,0,1
+Medina,1B,President,,REP,Rick Santorum,0,0,0
+Medina,1B,President,,REP,Marco Rubio,88,48,40
+Medina,1B,President,,REP,Rand Paul,1,0,1
+Medina,1B,President,,REP,Mike Huckabee,0,0,0
+Medina,1B,President,,REP,Elizabeth Gray,0,0,0
+Medina,1B,President,,REP,Chris Christie,0,0,0
+Medina,1B,President,,REP,Jeb Bush,7,6,1
+Medina,1B,President,,REP,Ted Cruz,298,178,120
+Medina,1B,President,,REP,Lindsey Graham,0,0,0
+Medina,1B,President,,REP,Ben Carson,16,10,6
+Medina,1B,President,,REP,Donald J. Trump,168,101,67
+Medina,1B,President,,REP,John R. Kasich,20,15,5
+Medina,1B,President,,REP,Uncommitted,4,4,0
+Medina,1B,President,,DEM,Willie L. Wilson,0,0,0
+Medina,1B,President,,DEM,Star Locke,0,0,0
+Medina,1B,President,,DEM,Hillary Clinton,29,16,13
+Medina,1B,President,,DEM,Keith Judd,0,0,0
+Medina,1B,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
+Medina,1B,President,,DEM,Martin J. O'Malley,1,1,0
+Medina,1B,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,1B,President,,DEM,Bernie Sanders,18,11,7
+Medina,1B,U.S. House,23,REP,"William ""Hart"" Peterson",99,58,41
+Medina,1B,U.S. House,23,REP,Will Hurd,468,286,182
+Medina,1B,U.S. House,23,DEM,Lee Keenen,6,3,3
+Medina,1B,U.S. House,23,DEM,Pete P. Gallego,39,25,14
+Medina,1B,Railroad Commissioner,,REP,Gary Gates,169,115,54
+Medina,1B,Railroad Commissioner,,REP,John Greytok,15,10,5
+Medina,1B,Railroad Commissioner,,REP,Weston Martinez,23,14,9
+Medina,1B,Railroad Commissioner,,REP,Ron Hale,67,34,33
+Medina,1B,Railroad Commissioner,,REP,Lance N. Christian,44,28,16
+Medina,1B,Railroad Commissioner,,REP,Doug Jeffrey,38,21,17
+Medina,1B,Railroad Commissioner,,REP,Wayne Christian,132,79,53
+Medina,1B,Railroad Commissioner,,DEM,Lon Burnam,6,5,1
+Medina,1B,Railroad Commissioner,,DEM,Grady Yarbrough,18,13,5
+Medina,1B,Railroad Commissioner,,DEM,Cody Garrett,14,7,7
+Medina,1B,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,313,195,118
+Medina,1B,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,184,112,72
+Medina,1B,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,33,21,12
+Medina,1B,"Justice, Supreme Court Place 5",,REP,Rick Green,242,133,109
+Medina,1B,"Justice, Supreme Court Place 5",,REP,Paul Green,245,166,79
+Medina,1B,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,35,24,11
+Medina,1B,"Justice, Supreme Court Place 9",,REP,Joe Pool,262,158,104
+Medina,1B,"Justice, Supreme Court Place 9",,REP,Eva Guzman,231,149,82
+Medina,1B,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,32,21,11
+Medina,1B,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,145,84,61
+Medina,1B,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,208,140,68
+Medina,1B,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,105,58,47
+Medina,1B,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",31,20,11
+Medina,1B,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,180,98,82
+Medina,1B,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,50,30,20
+Medina,1B,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,85,55,30
+Medina,1B,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,161,111,50
+Medina,1B,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,32,21,11
+Medina,1B,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,242,143,99
+Medina,1B,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,208,136,72
+Medina,1B,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,32,21,11
+Medina,1B,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,16,12,4
+Medina,1B,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,17,10,7
+Medina,1B,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",5,4,1
+Medina,1B,State Senator,19,REP,Peter P. Flores,433,267,166
+Medina,1B,State Senator,19,DEM,Helen Madia,16,9,7
+Medina,1B,State Senator,19,DEM,Carlos I. Uresti ,26,18,8
+Medina,1B,State Representative,53,REP,Andrew Murr,469,294,175
+Medina,1B,State Representative,53,DEM,Stephanie Lochte Ertel,30,19,11
+Medina,1B,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,436,271,165
+Medina,1B,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,34,22,12
+Medina,1B,PROPOSITION 1,,REP,FOR,429,263,166
+Medina,1B,PROPOSITION 1,,REP,AGAINST,146,86,60
+Medina,1B,PROPOSITION 2,,REP,FOR,395,241,154
+Medina,1B,PROPOSITION 2,,REP,AGAINST,183,107,76
+Medina,1B,PROPOSITION 3,,REP,FOR,499,301,198
+Medina,1B,PROPOSITION 3,,REP,AGAINST,71,45,26
+Medina,1B,PROPOSITION 4,,REP,FOR,567,344,223
+Medina,1B,PROPOSITION 4,,REP,AGAINST,12,8,4
+Medina,1B,REFERENDA ITEM 1,,DEM,FOR,42,25,17
+Medina,1B,REFERENDA ITEM 1,,DEM,AGAINST,3,2,1
+Medina,1B,REFERENDA ITEM 2,,DEM,FOR,44,26,18
+Medina,1B,REFERENDA ITEM 2,,DEM,AGAINST,1,1,0
+Medina,1B,REFERENDA ITEM 3,,DEM,FOR,42,24,18
+Medina,1B,REFERENDA ITEM 3,,DEM,AGAINST,3,3,0
+Medina,1B,REFERENDA ITEM 4,,DEM,FOR,40,24,16
+Medina,1B,REFERENDA ITEM 4,,DEM,AGAINST,4,2,2
+Medina,1B,REFERENDA ITEM 5,,DEM,FOR,34,21,13
+Medina,1B,REFERENDA ITEM 5,,DEM,AGAINST,11,6,5
+Medina,1B,REFERENDA ITEM 6,,DEM,FOR,41,24,17
+Medina,1B,REFERENDA ITEM 6,,DEM,AGAINST,4,3,1
+Medina,1C,Registered Voters - Total,,,,2454,,
+Medina,1C,President,,REP,Carly Fiorina,1,0,1
+Medina,1C,President,,REP,Rick Santorum,0,0,0
+Medina,1C,President,,REP,Marco Rubio,77,21,56
+Medina,1C,President,,REP,Rand Paul,0,0,0
+Medina,1C,President,,REP,Mike Huckabee,0,0,0
+Medina,1C,President,,REP,Elizabeth Gray,0,0,0
+Medina,1C,President,,REP,Chris Christie,1,0,1
+Medina,1C,President,,REP,Jeb Bush,4,3,1
+Medina,1C,President,,REP,Ted Cruz,340,119,221
+Medina,1C,President,,REP,Lindsey Graham,1,0,1
+Medina,1C,President,,REP,Ben Carson,35,8,27
+Medina,1C,President,,REP,Donald J. Trump,212,68,144
+Medina,1C,President,,REP,John R. Kasich,18,6,12
+Medina,1C,President,,REP,Uncommitted,5,3,2
+Medina,1C,President,,DEM,Willie L. Wilson,1,0,1
+Medina,1C,President,,DEM,Star Locke,1,0,1
+Medina,1C,President,,DEM,Hillary Clinton,118,35,83
+Medina,1C,President,,DEM,Keith Judd,1,0,1
+Medina,1C,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
+Medina,1C,President,,DEM,Martin J. O'Malley,2,2,0
+Medina,1C,President,,DEM,Calvis L. Hawes,1,0,1
+Medina,1C,President,,DEM,Bernie Sanders,54,14,40
+Medina,1C,U.S. House,23,REP,"William ""Hart"" Peterson",133,41,92
+Medina,1C,U.S. House,23,REP,Will Hurd,501,179,322
+Medina,1C,U.S. House,23,DEM,Lee Keenen,26,10,16
+Medina,1C,U.S. House,23,DEM,Pete P. Gallego,141,39,102
+Medina,1C,Railroad Commissioner,,REP,Gary Gates,173,65,108
+Medina,1C,Railroad Commissioner,,REP,John Greytok,18,6,12
+Medina,1C,Railroad Commissioner,,REP,Weston Martinez,52,21,31
+Medina,1C,Railroad Commissioner,,REP,Ron Hale,69,21,48
+Medina,1C,Railroad Commissioner,,REP,Lance N. Christian,50,17,33
+Medina,1C,Railroad Commissioner,,REP,Doug Jeffrey,38,14,24
+Medina,1C,Railroad Commissioner,,REP,Wayne Christian,154,52,102
+Medina,1C,Railroad Commissioner,,DEM,Lon Burnam,30,8,22
+Medina,1C,Railroad Commissioner,,DEM,Grady Yarbrough,66,17,49
+Medina,1C,Railroad Commissioner,,DEM,Cody Garrett,58,16,42
+Medina,1C,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,325,104,221
+Medina,1C,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,241,93,148
+Medina,1C,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,147,40,107
+Medina,1C,"Justice, Supreme Court Place 5",,REP,Rick Green,302,88,214
+Medina,1C,"Justice, Supreme Court Place 5",,REP,Paul Green,257,108,149
+Medina,1C,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,154,44,110
+Medina,1C,"Justice, Supreme Court Place 9",,REP,Joe Pool,284,102,182
+Medina,1C,"Justice, Supreme Court Place 9",,REP,Eva Guzman,283,97,186
+Medina,1C,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,150,42,108
+Medina,1C,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,171,57,114
+Medina,1C,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,224,73,151
+Medina,1C,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,115,42,73
+Medina,1C,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",147,41,106
+Medina,1C,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,230,78,152
+Medina,1C,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,64,24,40
+Medina,1C,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,89,34,55
+Medina,1C,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,160,48,112
+Medina,1C,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,148,41,107
+Medina,1C,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,261,89,172
+Medina,1C,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,258,90,168
+Medina,1C,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,148,40,108
+Medina,1C,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,91,25,66
+Medina,1C,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,47,17,30
+Medina,1C,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",19,3,16
+Medina,1C,State Senator,19,REP,Peter P. Flores,500,171,329
+Medina,1C,State Senator,19,DEM,Helen Madia,69,23,46
+Medina,1C,State Senator,19,DEM,Carlos I. Uresti ,99,26,73
+Medina,1C,State Representative,53,REP,Andrew Murr,516,179,337
+Medina,1C,State Representative,53,DEM,Stephanie Lochte Ertel,153,43,110
+Medina,1C,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,497,171,326
+Medina,1C,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,156,45,111
+Medina,1C,PROPOSITION 1,,REP,FOR,492,164,328
+Medina,1C,PROPOSITION 1,,REP,AGAINST,163,56,107
+Medina,1C,PROPOSITION 2,,REP,FOR,450,144,306
+Medina,1C,PROPOSITION 2,,REP,AGAINST,213,82,131
+Medina,1C,PROPOSITION 3,,REP,FOR,552,195,357
+Medina,1C,PROPOSITION 3,,REP,AGAINST,98,25,73
+Medina,1C,PROPOSITION 4,,REP,FOR,629,214,415
+Medina,1C,PROPOSITION 4,,REP,AGAINST,34,9,25
+Medina,1C,REFERENDA ITEM 1,,DEM,FOR,163,46,117
+Medina,1C,REFERENDA ITEM 1,,DEM,AGAINST,13,3,10
+Medina,1C,REFERENDA ITEM 2,,DEM,FOR,164,44,120
+Medina,1C,REFERENDA ITEM 2,,DEM,AGAINST,11,5,6
+Medina,1C,REFERENDA ITEM 3,,DEM,FOR,171,46,125
+Medina,1C,REFERENDA ITEM 3,,DEM,AGAINST,6,4,2
+Medina,1C,REFERENDA ITEM 4,,DEM,FOR,152,45,107
+Medina,1C,REFERENDA ITEM 4,,DEM,AGAINST,20,5,15
+Medina,1C,REFERENDA ITEM 5,,DEM,FOR,138,41,97
+Medina,1C,REFERENDA ITEM 5,,DEM,AGAINST,38,9,29
+Medina,1C,REFERENDA ITEM 6,,DEM,FOR,167,47,120
+Medina,1C,REFERENDA ITEM 6,,DEM,AGAINST,7,3,4
+Medina,1D,Registered Voters - Total,,,,2505,,
+Medina,1D,President,,REP,Carly Fiorina,1,1,0
+Medina,1D,President,,REP,Rick Santorum,0,0,0
+Medina,1D,President,,REP,Marco Rubio,97,56,41
+Medina,1D,President,,REP,Rand Paul,3,1,2
+Medina,1D,President,,REP,Mike Huckabee,1,1,0
+Medina,1D,President,,REP,Elizabeth Gray,1,1,0
+Medina,1D,President,,REP,Chris Christie,0,0,0
+Medina,1D,President,,REP,Jeb Bush,13,12,1
+Medina,1D,President,,REP,Ted Cruz,347,217,130
+Medina,1D,President,,REP,Lindsey Graham,0,0,0
+Medina,1D,President,,REP,Ben Carson,48,34,14
+Medina,1D,President,,REP,Donald J. Trump,243,128,115
+Medina,1D,President,,REP,John R. Kasich,13,10,3
+Medina,1D,President,,REP,Uncommitted,25,18,7
+Medina,1D,President,,DEM,Willie L. Wilson,4,1,3
+Medina,1D,President,,DEM,Star Locke,0,0,0
+Medina,1D,President,,DEM,Hillary Clinton,95,42,53
+Medina,1D,President,,DEM,Keith Judd,0,0,0
+Medina,1D,President,,DEM,"Roque ""Rocky"" De La Fuente",1,1,0
+Medina,1D,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,1D,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,1D,President,,DEM,Bernie Sanders,47,27,20
+Medina,1D,U.S. House,23,REP,"William ""Hart"" Peterson",97,51,46
+Medina,1D,U.S. House,23,REP,Will Hurd,647,410,237
+Medina,1D,U.S. House,23,DEM,Lee Keenen,26,9,17
+Medina,1D,U.S. House,23,DEM,Pete P. Gallego,115,62,53
+Medina,1D,Railroad Commissioner,,REP,Gary Gates,217,138,79
+Medina,1D,Railroad Commissioner,,REP,John Greytok,15,7,8
+Medina,1D,Railroad Commissioner,,REP,Weston Martinez,37,15,22
+Medina,1D,Railroad Commissioner,,REP,Ron Hale,87,55,32
+Medina,1D,Railroad Commissioner,,REP,Lance N. Christian,45,24,21
+Medina,1D,Railroad Commissioner,,REP,Doug Jeffrey,54,20,34
+Medina,1D,Railroad Commissioner,,REP,Wayne Christian,174,118,56
+Medina,1D,Railroad Commissioner,,DEM,Lon Burnam,22,12,10
+Medina,1D,Railroad Commissioner,,DEM,Grady Yarbrough,63,31,32
+Medina,1D,Railroad Commissioner,,DEM,Cody Garrett,41,19,22
+Medina,1D,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,399,248,151
+Medina,1D,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,247,145,102
+Medina,1D,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,112,57,55
+Medina,1D,"Justice, Supreme Court Place 5",,REP,Rick Green,354,202,152
+Medina,1D,"Justice, Supreme Court Place 5",,REP,Paul Green,268,171,97
+Medina,1D,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,123,60,63
+Medina,1D,"Justice, Supreme Court Place 9",,REP,Joe Pool,396,232,164
+Medina,1D,"Justice, Supreme Court Place 9",,REP,Eva Guzman,240,150,90
+Medina,1D,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,121,59,62
+Medina,1D,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,217,134,83
+Medina,1D,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,244,152,92
+Medina,1D,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,129,62,67
+Medina,1D,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",118,56,62
+Medina,1D,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,304,182,122
+Medina,1D,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,60,31,29
+Medina,1D,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,87,41,46
+Medina,1D,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,162,109,53
+Medina,1D,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,123,60,63
+Medina,1D,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,342,206,136
+Medina,1D,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,238,136,102
+Medina,1D,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,119,56,63
+Medina,1D,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,71,35,36
+Medina,1D,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,47,26,21
+Medina,1D,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",15,6,9
+Medina,1D,State Senator,19,REP,Peter P. Flores,562,333,229
+Medina,1D,State Senator,19,DEM,Helen Madia,59,36,23
+Medina,1D,State Senator,19,DEM,Carlos I. Uresti ,83,36,47
+Medina,1D,State Representative,53,REP,Andrew Murr,630,386,244
+Medina,1D,State Representative,53,DEM,Stephanie Lochte Ertel,120,59,61
+Medina,1D,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,572,341,231
+Medina,1D,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,123,60,63
+Medina,1D,PROPOSITION 1,,REP,FOR,547,337,210
+Medina,1D,PROPOSITION 1,,REP,AGAINST,204,119,85
+Medina,1D,PROPOSITION 2,,REP,FOR,472,285,187
+Medina,1D,PROPOSITION 2,,REP,AGAINST,286,176,110
+Medina,1D,PROPOSITION 3,,REP,FOR,635,396,239
+Medina,1D,PROPOSITION 3,,REP,AGAINST,117,60,57
+Medina,1D,PROPOSITION 4,,REP,FOR,714,437,277
+Medina,1D,PROPOSITION 4,,REP,AGAINST,33,18,15
+Medina,1D,REFERENDA ITEM 1,,DEM,FOR,117,65,52
+Medina,1D,REFERENDA ITEM 1,,DEM,AGAINST,21,6,15
+Medina,1D,REFERENDA ITEM 2,,DEM,FOR,120,64,56
+Medina,1D,REFERENDA ITEM 2,,DEM,AGAINST,15,6,9
+Medina,1D,REFERENDA ITEM 3,,DEM,FOR,120,67,53
+Medina,1D,REFERENDA ITEM 3,,DEM,AGAINST,17,4,13
+Medina,1D,REFERENDA ITEM 4,,DEM,FOR,126,68,58
+Medina,1D,REFERENDA ITEM 4,,DEM,AGAINST,10,1,9
+Medina,1D,REFERENDA ITEM 5,,DEM,FOR,97,59,38
+Medina,1D,REFERENDA ITEM 5,,DEM,AGAINST,39,10,29
+Medina,1D,REFERENDA ITEM 6,,DEM,FOR,122,66,56
+Medina,1D,REFERENDA ITEM 6,,DEM,AGAINST,15,5,10
+Medina,2A,Registered Voters - Total,,,,1348,,
+Medina,2A,President,,REP,Carly Fiorina,0,0,0
+Medina,2A,President,,REP,Rick Santorum,0,0,0
+Medina,2A,President,,REP,Marco Rubio,54,26,28
+Medina,2A,President,,REP,Rand Paul,2,0,2
+Medina,2A,President,,REP,Mike Huckabee,0,0,0
+Medina,2A,President,,REP,Elizabeth Gray,0,0,0
+Medina,2A,President,,REP,Chris Christie,0,0,0
+Medina,2A,President,,REP,Jeb Bush,3,2,1
+Medina,2A,President,,REP,Ted Cruz,209,99,110
+Medina,2A,President,,REP,Lindsey Graham,0,0,0
+Medina,2A,President,,REP,Ben Carson,15,10,5
+Medina,2A,President,,REP,Donald J. Trump,87,36,51
+Medina,2A,President,,REP,John R. Kasich,13,1,12
+Medina,2A,President,,REP,Uncommitted,2,1,1
+Medina,2A,President,,DEM,Willie L. Wilson,0,0,0
+Medina,2A,President,,DEM,Star Locke,1,1,0
+Medina,2A,President,,DEM,Hillary Clinton,52,20,32
+Medina,2A,President,,DEM,Keith Judd,0,0,0
+Medina,2A,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
+Medina,2A,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,2A,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,2A,President,,DEM,Bernie Sanders,22,8,14
+Medina,2A,U.S. House,23,REP,"William ""Hart"" Peterson",44,18,26
+Medina,2A,U.S. House,23,REP,Will Hurd,321,153,168
+Medina,2A,U.S. House,23,DEM,Lee Keenen,12,3,9
+Medina,2A,U.S. House,23,DEM,Pete P. Gallego,57,24,33
+Medina,2A,Railroad Commissioner,,REP,Gary Gates,91,51,40
+Medina,2A,Railroad Commissioner,,REP,John Greytok,9,5,4
+Medina,2A,Railroad Commissioner,,REP,Weston Martinez,27,4,23
+Medina,2A,Railroad Commissioner,,REP,Ron Hale,54,21,33
+Medina,2A,Railroad Commissioner,,REP,Lance N. Christian,29,14,15
+Medina,2A,Railroad Commissioner,,REP,Doug Jeffrey,16,8,8
+Medina,2A,Railroad Commissioner,,REP,Wayne Christian,76,43,33
+Medina,2A,Railroad Commissioner,,DEM,Lon Burnam,9,3,6
+Medina,2A,Railroad Commissioner,,DEM,Grady Yarbrough,34,16,18
+Medina,2A,Railroad Commissioner,,DEM,Cody Garrett,17,3,14
+Medina,2A,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,185,93,92
+Medina,2A,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,128,58,70
+Medina,2A,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,56,19,37
+Medina,2A,"Justice, Supreme Court Place 5",,REP,Rick Green,165,71,94
+Medina,2A,"Justice, Supreme Court Place 5",,REP,Paul Green,148,83,65
+Medina,2A,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,56,20,36
+Medina,2A,"Justice, Supreme Court Place 9",,REP,Joe Pool,145,63,82
+Medina,2A,"Justice, Supreme Court Place 9",,REP,Eva Guzman,169,87,82
+Medina,2A,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,58,21,37
+Medina,2A,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,107,51,56
+Medina,2A,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,119,61,58
+Medina,2A,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,67,29,38
+Medina,2A,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",56,18,38
+Medina,2A,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,140,61,79
+Medina,2A,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,33,17,16
+Medina,2A,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,56,21,35
+Medina,2A,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,77,48,29
+Medina,2A,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,59,21,38
+Medina,2A,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,143,63,80
+Medina,2A,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,148,77,71
+Medina,2A,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,57,19,38
+Medina,2A,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,41,18,23
+Medina,2A,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,14,5,9
+Medina,2A,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",12,3,9
+Medina,2A,State Senator,19,REP,Peter P. Flores,277,134,143
+Medina,2A,State Senator,19,DEM,Helen Madia,30,12,18
+Medina,2A,State Senator,19,DEM,Carlos I. Uresti ,39,15,24
+Medina,2A,State Representative,53,REP,Andrew Murr,295,141,154
+Medina,2A,State Representative,53,DEM,Stephanie Lochte Ertel,61,23,38
+Medina,2A,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,280,135,145
+Medina,2A,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,61,23,38
+Medina,2A,PROPOSITION 1,,REP,FOR,271,125,146
+Medina,2A,PROPOSITION 1,,REP,AGAINST,96,41,55
+Medina,2A,PROPOSITION 2,,REP,FOR,261,117,144
+Medina,2A,PROPOSITION 2,,REP,AGAINST,100,47,53
+Medina,2A,PROPOSITION 3,,REP,FOR,297,132,165
+Medina,2A,PROPOSITION 3,,REP,AGAINST,64,32,32
+Medina,2A,PROPOSITION 4,,REP,FOR,355,162,193
+Medina,2A,PROPOSITION 4,,REP,AGAINST,8,4,4
+Medina,2A,REFERENDA ITEM 1,,DEM,FOR,70,25,45
+Medina,2A,REFERENDA ITEM 1,,DEM,AGAINST,4,3,1
+Medina,2A,REFERENDA ITEM 2,,DEM,FOR,69,27,42
+Medina,2A,REFERENDA ITEM 2,,DEM,AGAINST,3,1,2
+Medina,2A,REFERENDA ITEM 3,,DEM,FOR,70,28,42
+Medina,2A,REFERENDA ITEM 3,,DEM,AGAINST,3,0,3
+Medina,2A,REFERENDA ITEM 4,,DEM,FOR,60,24,36
+Medina,2A,REFERENDA ITEM 4,,DEM,AGAINST,9,2,7
+Medina,2A,REFERENDA ITEM 5,,DEM,FOR,49,21,28
+Medina,2A,REFERENDA ITEM 5,,DEM,AGAINST,24,6,18
+Medina,2A,REFERENDA ITEM 6,,DEM,FOR,69,26,43
+Medina,2A,REFERENDA ITEM 6,,DEM,AGAINST,6,3,3
+Medina,2B,Registered Voters - Total,,,,2765,,
+Medina,2B,President,,REP,Carly Fiorina,2,1,1
+Medina,2B,President,,REP,Rick Santorum,3,1,2
+Medina,2B,President,,REP,Marco Rubio,144,89,55
+Medina,2B,President,,REP,Rand Paul,3,1,2
+Medina,2B,President,,REP,Mike Huckabee,1,1,0
+Medina,2B,President,,REP,Elizabeth Gray,0,0,0
+Medina,2B,President,,REP,Chris Christie,1,1,0
+Medina,2B,President,,REP,Jeb Bush,9,9,0
+Medina,2B,President,,REP,Ted Cruz,403,207,196
+Medina,2B,President,,REP,Lindsey Graham,0,0,0
+Medina,2B,President,,REP,Ben Carson,39,18,21
+Medina,2B,President,,REP,Donald J. Trump,270,155,115
+Medina,2B,President,,REP,John R. Kasich,27,16,11
+Medina,2B,President,,REP,Uncommitted,13,11,2
+Medina,2B,President,,DEM,Willie L. Wilson,1,0,1
+Medina,2B,President,,DEM,Star Locke,0,0,0
+Medina,2B,President,,DEM,Hillary Clinton,94,45,49
+Medina,2B,President,,DEM,Keith Judd,0,0,0
+Medina,2B,President,,DEM,"Roque ""Rocky"" De La Fuente",1,1,0
+Medina,2B,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,2B,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,2B,President,,DEM,Bernie Sanders,45,15,30
+Medina,2B,U.S. House,23,REP,"William ""Hart"" Peterson",106,52,54
+Medina,2B,U.S. House,23,REP,Will Hurd,737,429,308
+Medina,2B,U.S. House,23,DEM,Lee Keenen,17,6,11
+Medina,2B,U.S. House,23,DEM,Pete P. Gallego,112,53,59
+Medina,2B,Railroad Commissioner,,REP,Gary Gates,226,138,88
+Medina,2B,Railroad Commissioner,,REP,John Greytok,15,9,6
+Medina,2B,Railroad Commissioner,,REP,Weston Martinez,60,33,27
+Medina,2B,Railroad Commissioner,,REP,Ron Hale,81,40,41
+Medina,2B,Railroad Commissioner,,REP,Lance N. Christian,60,31,29
+Medina,2B,Railroad Commissioner,,REP,Doug Jeffrey,51,26,25
+Medina,2B,Railroad Commissioner,,REP,Wayne Christian,216,132,84
+Medina,2B,Railroad Commissioner,,DEM,Lon Burnam,22,9,13
+Medina,2B,Railroad Commissioner,,DEM,Grady Yarbrough,48,23,25
+Medina,2B,Railroad Commissioner,,DEM,Cody Garrett,40,17,23
+Medina,2B,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,461,283,178
+Medina,2B,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,264,132,132
+Medina,2B,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,103,50,53
+Medina,2B,"Justice, Supreme Court Place 5",,REP,Rick Green,376,205,171
+Medina,2B,"Justice, Supreme Court Place 5",,REP,Paul Green,332,199,133
+Medina,2B,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,116,57,59
+Medina,2B,"Justice, Supreme Court Place 9",,REP,Joe Pool,387,217,170
+Medina,2B,"Justice, Supreme Court Place 9",,REP,Eva Guzman,332,191,141
+Medina,2B,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,113,55,58
+Medina,2B,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,187,108,79
+Medina,2B,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,302,179,123
+Medina,2B,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,160,88,72
+Medina,2B,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",111,54,57
+Medina,2B,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,298,158,140
+Medina,2B,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,81,47,34
+Medina,2B,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,122,65,57
+Medina,2B,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,193,124,69
+Medina,2B,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,111,53,58
+Medina,2B,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,369,216,153
+Medina,2B,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,279,156,123
+Medina,2B,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,110,54,56
+Medina,2B,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,74,36,38
+Medina,2B,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,22,10,12
+Medina,2B,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",14,5,9
+Medina,2B,State Senator,19,REP,Peter P. Flores,632,362,270
+Medina,2B,State Senator,19,DEM,Helen Madia,59,26,33
+Medina,2B,State Senator,19,DEM,Carlos I. Uresti ,68,32,36
+Medina,2B,State Representative,53,REP,Andrew Murr,681,389,292
+Medina,2B,State Representative,53,DEM,Stephanie Lochte Ertel,109,51,58
+Medina,2B,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,639,362,277
+Medina,2B,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,113,55,58
+Medina,2B,PROPOSITION 1,,REP,FOR,616,350,266
+Medina,2B,PROPOSITION 1,,REP,AGAINST,232,128,104
+Medina,2B,PROPOSITION 2,,REP,FOR,542,305,237
+Medina,2B,PROPOSITION 2,,REP,AGAINST,315,179,136
+Medina,2B,PROPOSITION 3,,REP,FOR,706,410,296
+Medina,2B,PROPOSITION 3,,REP,AGAINST,134,65,69
+Medina,2B,PROPOSITION 4,,REP,FOR,812,455,357
+Medina,2B,PROPOSITION 4,,REP,AGAINST,40,22,18
+Medina,2B,REFERENDA ITEM 1,,DEM,FOR,123,59,64
+Medina,2B,REFERENDA ITEM 1,,DEM,AGAINST,10,1,9
+Medina,2B,REFERENDA ITEM 2,,DEM,FOR,125,57,68
+Medina,2B,REFERENDA ITEM 2,,DEM,AGAINST,8,1,7
+Medina,2B,REFERENDA ITEM 3,,DEM,FOR,122,56,66
+Medina,2B,REFERENDA ITEM 3,,DEM,AGAINST,13,3,10
+Medina,2B,REFERENDA ITEM 4,,DEM,FOR,118,55,63
+Medina,2B,REFERENDA ITEM 4,,DEM,AGAINST,8,0,8
+Medina,2B,REFERENDA ITEM 5,,DEM,FOR,106,52,54
+Medina,2B,REFERENDA ITEM 5,,DEM,AGAINST,32,8,24
+Medina,2B,REFERENDA ITEM 6,,DEM,FOR,117,54,63
+Medina,2B,REFERENDA ITEM 6,,DEM,AGAINST,19,6,13
+Medina,2C,Registered Voters - Total,,,,3534,,
+Medina,2C,President,,REP,Carly Fiorina,0,0,0
+Medina,2C,President,,REP,Rick Santorum,0,0,0
+Medina,2C,President,,REP,Marco Rubio,128,69,59
+Medina,2C,President,,REP,Rand Paul,4,4,0
+Medina,2C,President,,REP,Mike Huckabee,0,0,0
+Medina,2C,President,,REP,Elizabeth Gray,0,0,0
+Medina,2C,President,,REP,Chris Christie,0,0,0
+Medina,2C,President,,REP,Jeb Bush,10,9,1
+Medina,2C,President,,REP,Ted Cruz,435,227,208
+Medina,2C,President,,REP,Lindsey Graham,0,0,0
+Medina,2C,President,,REP,Ben Carson,50,13,37
+Medina,2C,President,,REP,Donald J. Trump,266,160,106
+Medina,2C,President,,REP,John R. Kasich,10,5,5
+Medina,2C,President,,REP,Uncommitted,9,7,2
+Medina,2C,President,,DEM,Willie L. Wilson,0,0,0
+Medina,2C,President,,DEM,Star Locke,0,0,0
+Medina,2C,President,,DEM,Hillary Clinton,114,59,55
+Medina,2C,President,,DEM,Keith Judd,0,0,0
+Medina,2C,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
+Medina,2C,President,,DEM,Martin J. O'Malley,1,0,1
+Medina,2C,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,2C,President,,DEM,Bernie Sanders,52,19,33
+Medina,2C,U.S. House,23,REP,"William ""Hart"" Peterson",144,71,73
+Medina,2C,U.S. House,23,REP,Will Hurd,720,407,313
+Medina,2C,U.S. House,23,DEM,Lee Keenen,25,9,16
+Medina,2C,U.S. House,23,DEM,Pete P. Gallego,128,65,63
+Medina,2C,Railroad Commissioner,,REP,Gary Gates,207,126,81
+Medina,2C,Railroad Commissioner,,REP,John Greytok,21,10,11
+Medina,2C,Railroad Commissioner,,REP,Weston Martinez,88,40,48
+Medina,2C,Railroad Commissioner,,REP,Ron Hale,82,40,42
+Medina,2C,Railroad Commissioner,,REP,Lance N. Christian,64,34,30
+Medina,2C,Railroad Commissioner,,REP,Doug Jeffrey,64,28,36
+Medina,2C,Railroad Commissioner,,REP,Wayne Christian,231,137,94
+Medina,2C,Railroad Commissioner,,DEM,Lon Burnam,28,16,12
+Medina,2C,Railroad Commissioner,,DEM,Grady Yarbrough,69,36,33
+Medina,2C,Railroad Commissioner,,DEM,Cody Garrett,48,17,31
+Medina,2C,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,486,285,201
+Medina,2C,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,272,133,139
+Medina,2C,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,132,68,64
+Medina,2C,"Justice, Supreme Court Place 5",,REP,Rick Green,410,222,188
+Medina,2C,"Justice, Supreme Court Place 5",,REP,Paul Green,357,194,163
+Medina,2C,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,136,70,66
+Medina,2C,"Justice, Supreme Court Place 9",,REP,Joe Pool,367,206,161
+Medina,2C,"Justice, Supreme Court Place 9",,REP,Eva Guzman,399,212,187
+Medina,2C,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,131,67,64
+Medina,2C,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,237,127,110
+Medina,2C,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,325,183,142
+Medina,2C,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,166,91,75
+Medina,2C,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",132,68,64
+Medina,2C,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,312,167,145
+Medina,2C,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,82,42,40
+Medina,2C,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,119,55,64
+Medina,2C,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,235,148,87
+Medina,2C,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,134,69,65
+Medina,2C,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,378,196,182
+Medina,2C,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,340,199,141
+Medina,2C,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,133,69,64
+Medina,2C,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,67,35,32
+Medina,2C,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,42,23,19
+Medina,2C,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",30,11,19
+Medina,2C,State Senator,19,REP,Peter P. Flores,701,391,310
+Medina,2C,State Senator,19,DEM,Helen Madia,60,26,34
+Medina,2C,State Senator,19,DEM,Carlos I. Uresti ,92,49,43
+Medina,2C,State Representative,53,REP,Andrew Murr,721,407,314
+Medina,2C,State Representative,53,DEM,Stephanie Lochte Ertel,135,70,65
+Medina,2C,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,689,380,309
+Medina,2C,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,138,69,69
+Medina,2C,PROPOSITION 1,,REP,FOR,624,327,297
+Medina,2C,PROPOSITION 1,,REP,AGAINST,243,144,99
+Medina,2C,PROPOSITION 2,,REP,FOR,544,292,252
+Medina,2C,PROPOSITION 2,,REP,AGAINST,327,186,141
+Medina,2C,PROPOSITION 3,,REP,FOR,724,398,326
+Medina,2C,PROPOSITION 3,,REP,AGAINST,139,74,65
+Medina,2C,PROPOSITION 4,,REP,FOR,845,463,382
+Medina,2C,PROPOSITION 4,,REP,AGAINST,24,14,10
+Medina,2C,REFERENDA ITEM 1,,DEM,FOR,147,72,75
+Medina,2C,REFERENDA ITEM 1,,DEM,AGAINST,14,6,8
+Medina,2C,REFERENDA ITEM 2,,DEM,FOR,145,70,75
+Medina,2C,REFERENDA ITEM 2,,DEM,AGAINST,14,8,6
+Medina,2C,REFERENDA ITEM 3,,DEM,FOR,148,73,75
+Medina,2C,REFERENDA ITEM 3,,DEM,AGAINST,12,5,7
+Medina,2C,REFERENDA ITEM 4,,DEM,FOR,142,68,74
+Medina,2C,REFERENDA ITEM 4,,DEM,AGAINST,15,9,6
+Medina,2C,REFERENDA ITEM 5,,DEM,FOR,128,62,66
+Medina,2C,REFERENDA ITEM 5,,DEM,AGAINST,28,14,14
+Medina,2C,REFERENDA ITEM 6,,DEM,FOR,148,75,73
+Medina,2C,REFERENDA ITEM 6,,DEM,AGAINST,14,5,9
+Medina,3A,Registered Voters - Total,,,,977,,
+Medina,3A,President,,REP,Carly Fiorina,1,0,1
+Medina,3A,President,,REP,Rick Santorum,1,0,1
+Medina,3A,President,,REP,Marco Rubio,40,8,32
+Medina,3A,President,,REP,Rand Paul,1,1,0
+Medina,3A,President,,REP,Mike Huckabee,0,0,0
+Medina,3A,President,,REP,Elizabeth Gray,1,0,1
+Medina,3A,President,,REP,Chris Christie,0,0,0
+Medina,3A,President,,REP,Jeb Bush,9,6,3
+Medina,3A,President,,REP,Ted Cruz,154,60,94
+Medina,3A,President,,REP,Lindsey Graham,0,0,0
+Medina,3A,President,,REP,Ben Carson,12,7,5
+Medina,3A,President,,REP,Donald J. Trump,84,26,58
+Medina,3A,President,,REP,John R. Kasich,5,1,4
+Medina,3A,President,,REP,Uncommitted,9,6,3
+Medina,3A,President,,DEM,Willie L. Wilson,0,0,0
+Medina,3A,President,,DEM,Star Locke,0,0,0
+Medina,3A,President,,DEM,Hillary Clinton,33,8,25
+Medina,3A,President,,DEM,Keith Judd,0,0,0
+Medina,3A,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
+Medina,3A,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,3A,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,3A,President,,DEM,Bernie Sanders,18,4,14
+Medina,3A,U.S. House,23,REP,"William ""Hart"" Peterson",45,13,32
+Medina,3A,U.S. House,23,REP,Will Hurd,248,96,152
+Medina,3A,U.S. House,23,DEM,Lee Keenen,7,1,6
+Medina,3A,U.S. House,23,DEM,Pete P. Gallego,42,11,31
+Medina,3A,Railroad Commissioner,,REP,Gary Gates,81,32,49
+Medina,3A,Railroad Commissioner,,REP,John Greytok,6,0,6
+Medina,3A,Railroad Commissioner,,REP,Weston Martinez,24,7,17
+Medina,3A,Railroad Commissioner,,REP,Ron Hale,37,16,21
+Medina,3A,Railroad Commissioner,,REP,Lance N. Christian,27,12,15
+Medina,3A,Railroad Commissioner,,REP,Doug Jeffrey,23,5,18
+Medina,3A,Railroad Commissioner,,REP,Wayne Christian,57,21,36
+Medina,3A,Railroad Commissioner,,DEM,Lon Burnam,6,2,4
+Medina,3A,Railroad Commissioner,,DEM,Grady Yarbrough,17,5,12
+Medina,3A,Railroad Commissioner,,DEM,Cody Garrett,23,5,18
+Medina,3A,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,177,74,103
+Medina,3A,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,81,26,55
+Medina,3A,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,45,12,33
+Medina,3A,"Justice, Supreme Court Place 5",,REP,Rick Green,148,46,102
+Medina,3A,"Justice, Supreme Court Place 5",,REP,Paul Green,97,47,50
+Medina,3A,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,45,12,33
+Medina,3A,"Justice, Supreme Court Place 9",,REP,Joe Pool,133,53,80
+Medina,3A,"Justice, Supreme Court Place 9",,REP,Eva Guzman,123,45,78
+Medina,3A,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,43,11,32
+Medina,3A,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,81,28,53
+Medina,3A,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,100,35,65
+Medina,3A,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,55,21,34
+Medina,3A,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",44,12,32
+Medina,3A,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,113,38,75
+Medina,3A,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,30,9,21
+Medina,3A,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,36,11,25
+Medina,3A,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,59,29,30
+Medina,3A,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,43,12,31
+Medina,3A,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,135,41,94
+Medina,3A,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,95,40,55
+Medina,3A,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,44,12,32
+Medina,3A,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,16,4,12
+Medina,3A,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,17,4,13
+Medina,3A,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",11,3,8
+Medina,3A,State Senator,19,REP,Peter P. Flores,228,82,146
+Medina,3A,State Senator,19,DEM,Helen Madia,16,4,12
+Medina,3A,State Senator,19,DEM,Carlos I. Uresti ,33,8,25
+Medina,3A,State Representative,53,REP,Andrew Murr,250,95,155
+Medina,3A,State Representative,53,DEM,Stephanie Lochte Ertel,46,12,34
+Medina,3A,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,226,83,143
+Medina,3A,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,46,12,34
+Medina,3A,PROPOSITION 1,,REP,FOR,210,79,131
+Medina,3A,PROPOSITION 1,,REP,AGAINST,86,34,52
+Medina,3A,PROPOSITION 2,,REP,FOR,176,67,109
+Medina,3A,PROPOSITION 2,,REP,AGAINST,117,44,73
+Medina,3A,PROPOSITION 3,,REP,FOR,226,90,136
+Medina,3A,PROPOSITION 3,,REP,AGAINST,58,17,41
+Medina,3A,PROPOSITION 4,,REP,FOR,272,107,165
+Medina,3A,PROPOSITION 4,,REP,AGAINST,17,5,12
+Medina,3A,REFERENDA ITEM 1,,DEM,FOR,42,12,30
+Medina,3A,REFERENDA ITEM 1,,DEM,AGAINST,3,0,3
+Medina,3A,REFERENDA ITEM 2,,DEM,FOR,40,9,31
+Medina,3A,REFERENDA ITEM 2,,DEM,AGAINST,5,3,2
+Medina,3A,REFERENDA ITEM 3,,DEM,FOR,42,12,30
+Medina,3A,REFERENDA ITEM 3,,DEM,AGAINST,3,0,3
+Medina,3A,REFERENDA ITEM 4,,DEM,FOR,40,11,29
+Medina,3A,REFERENDA ITEM 4,,DEM,AGAINST,5,1,4
+Medina,3A,REFERENDA ITEM 5,,DEM,FOR,32,8,24
+Medina,3A,REFERENDA ITEM 5,,DEM,AGAINST,14,4,10
+Medina,3A,REFERENDA ITEM 6,,DEM,FOR,37,9,28
+Medina,3A,REFERENDA ITEM 6,,DEM,AGAINST,8,3,5
+Medina,3B,Registered Voters - Total,,,,600,,
+Medina,3B,President,,REP,Carly Fiorina,0,0,0
+Medina,3B,President,,REP,Rick Santorum,0,0,0
+Medina,3B,President,,REP,Marco Rubio,19,12,7
+Medina,3B,President,,REP,Rand Paul,1,1,0
+Medina,3B,President,,REP,Mike Huckabee,2,1,1
+Medina,3B,President,,REP,Elizabeth Gray,0,0,0
+Medina,3B,President,,REP,Chris Christie,0,0,0
+Medina,3B,President,,REP,Jeb Bush,11,9,2
+Medina,3B,President,,REP,Ted Cruz,159,98,61
+Medina,3B,President,,REP,Lindsey Graham,0,0,0
+Medina,3B,President,,REP,Ben Carson,16,9,7
+Medina,3B,President,,REP,Donald J. Trump,63,44,19
+Medina,3B,President,,REP,John R. Kasich,1,1,0
+Medina,3B,President,,REP,Uncommitted,9,9,0
+Medina,3B,President,,DEM,Willie L. Wilson,0,0,0
+Medina,3B,President,,DEM,Star Locke,0,0,0
+Medina,3B,President,,DEM,Hillary Clinton,52,11,41
+Medina,3B,President,,DEM,Keith Judd,0,0,0
+Medina,3B,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
+Medina,3B,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,3B,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,3B,President,,DEM,Bernie Sanders,27,7,20
+Medina,3B,U.S. House,23,REP,"William ""Hart"" Peterson",38,17,21
+Medina,3B,U.S. House,23,REP,Will Hurd,227,156,71
+Medina,3B,U.S. House,23,DEM,Lee Keenen,9,1,8
+Medina,3B,U.S. House,23,DEM,Pete P. Gallego,67,18,49
+Medina,3B,Railroad Commissioner,,REP,Gary Gates,76,51,25
+Medina,3B,Railroad Commissioner,,REP,John Greytok,7,5,2
+Medina,3B,Railroad Commissioner,,REP,Weston Martinez,14,8,6
+Medina,3B,Railroad Commissioner,,REP,Ron Hale,32,20,12
+Medina,3B,Railroad Commissioner,,REP,Lance N. Christian,18,12,6
+Medina,3B,Railroad Commissioner,,REP,Doug Jeffrey,22,8,14
+Medina,3B,Railroad Commissioner,,REP,Wayne Christian,53,36,17
+Medina,3B,Railroad Commissioner,,DEM,Lon Burnam,8,4,4
+Medina,3B,Railroad Commissioner,,DEM,Grady Yarbrough,25,8,17
+Medina,3B,Railroad Commissioner,,DEM,Cody Garrett,36,6,30
+Medina,3B,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,160,110,50
+Medina,3B,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,71,40,31
+Medina,3B,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,63,17,46
+Medina,3B,"Justice, Supreme Court Place 5",,REP,Rick Green,118,68,50
+Medina,3B,"Justice, Supreme Court Place 5",,REP,Paul Green,102,73,29
+Medina,3B,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,66,16,50
+Medina,3B,"Justice, Supreme Court Place 9",,REP,Joe Pool,122,83,39
+Medina,3B,"Justice, Supreme Court Place 9",,REP,Eva Guzman,107,65,42
+Medina,3B,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,61,17,44
+Medina,3B,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,75,40,35
+Medina,3B,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,81,55,26
+Medina,3B,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,47,32,15
+Medina,3B,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",65,18,47
+Medina,3B,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,94,54,40
+Medina,3B,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,27,17,10
+Medina,3B,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,34,19,15
+Medina,3B,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,55,42,13
+Medina,3B,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,60,16,44
+Medina,3B,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,101,62,39
+Medina,3B,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,98,62,36
+Medina,3B,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,61,16,45
+Medina,3B,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,28,7,21
+Medina,3B,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,22,6,16
+Medina,3B,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",18,4,14
+Medina,3B,State Senator,19,REP,Peter P. Flores,193,123,70
+Medina,3B,State Senator,19,DEM,Helen Madia,24,7,17
+Medina,3B,State Senator,19,DEM,Carlos I. Uresti ,50,10,40
+Medina,3B,State Representative,53,REP,Andrew Murr,221,142,79
+Medina,3B,State Representative,53,DEM,Stephanie Lochte Ertel,66,17,49
+Medina,3B,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,197,126,71
+Medina,3B,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,69,18,51
+Medina,3B,PROPOSITION 1,,REP,FOR,193,124,69
+Medina,3B,PROPOSITION 1,,REP,AGAINST,74,48,26
+Medina,3B,PROPOSITION 2,,REP,FOR,168,106,62
+Medina,3B,PROPOSITION 2,,REP,AGAINST,97,65,32
+Medina,3B,PROPOSITION 3,,REP,FOR,214,137,77
+Medina,3B,PROPOSITION 3,,REP,AGAINST,49,30,19
+Medina,3B,PROPOSITION 4,,REP,FOR,260,166,94
+Medina,3B,PROPOSITION 4,,REP,AGAINST,7,7,0
+Medina,3B,REFERENDA ITEM 1,,DEM,FOR,34,17,17
+Medina,3B,REFERENDA ITEM 1,,DEM,AGAINST,1,0,1
+Medina,3B,REFERENDA ITEM 2,,DEM,FOR,29,14,15
+Medina,3B,REFERENDA ITEM 2,,DEM,AGAINST,4,3,1
+Medina,3B,REFERENDA ITEM 3,,DEM,FOR,33,19,14
+Medina,3B,REFERENDA ITEM 3,,DEM,AGAINST,3,0,3
+Medina,3B,REFERENDA ITEM 4,,DEM,FOR,32,16,16
+Medina,3B,REFERENDA ITEM 4,,DEM,AGAINST,3,2,1
+Medina,3B,REFERENDA ITEM 5,,DEM,FOR,27,14,13
+Medina,3B,REFERENDA ITEM 5,,DEM,AGAINST,10,5,5
+Medina,3B,REFERENDA ITEM 6,,DEM,FOR,26,16,10
+Medina,3B,REFERENDA ITEM 6,,DEM,AGAINST,10,3,7
+Medina,3C,Registered Voters - Total,,,,2393,,
+Medina,3C,President,,REP,Carly Fiorina,0,0,0
+Medina,3C,President,,REP,Rick Santorum,0,0,0
+Medina,3C,President,,REP,Marco Rubio,47,26,21
+Medina,3C,President,,REP,Rand Paul,2,1,1
+Medina,3C,President,,REP,Mike Huckabee,2,2,0
+Medina,3C,President,,REP,Elizabeth Gray,0,0,0
+Medina,3C,President,,REP,Chris Christie,1,0,1
+Medina,3C,President,,REP,Jeb Bush,8,7,1
+Medina,3C,President,,REP,Ted Cruz,257,138,119
+Medina,3C,President,,REP,Lindsey Graham,0,0,0
+Medina,3C,President,,REP,Ben Carson,10,7,3
+Medina,3C,President,,REP,Donald J. Trump,157,75,82
+Medina,3C,President,,REP,John R. Kasich,9,7,2
+Medina,3C,President,,REP,Uncommitted,10,6,4
+Medina,3C,President,,DEM,Willie L. Wilson,1,1,0
+Medina,3C,President,,DEM,Star Locke,0,0,0
+Medina,3C,President,,DEM,Hillary Clinton,108,47,61
+Medina,3C,President,,DEM,Keith Judd,0,0,0
+Medina,3C,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
+Medina,3C,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,3C,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,3C,President,,DEM,Bernie Sanders,38,16,22
+Medina,3C,U.S. House,23,REP,"William ""Hart"" Peterson",105,58,47
+Medina,3C,U.S. House,23,REP,Will Hurd,344,191,153
+Medina,3C,U.S. House,23,DEM,Lee Keenen,21,9,12
+Medina,3C,U.S. House,23,DEM,Pete P. Gallego,120,52,68
+Medina,3C,Railroad Commissioner,,REP,Gary Gates,123,69,54
+Medina,3C,Railroad Commissioner,,REP,John Greytok,15,10,5
+Medina,3C,Railroad Commissioner,,REP,Weston Martinez,50,23,27
+Medina,3C,Railroad Commissioner,,REP,Ron Hale,56,26,30
+Medina,3C,Railroad Commissioner,,REP,Lance N. Christian,27,16,11
+Medina,3C,Railroad Commissioner,,REP,Doug Jeffrey,40,26,14
+Medina,3C,Railroad Commissioner,,REP,Wayne Christian,99,65,34
+Medina,3C,Railroad Commissioner,,DEM,Lon Burnam,17,8,9
+Medina,3C,Railroad Commissioner,,DEM,Grady Yarbrough,55,26,29
+Medina,3C,Railroad Commissioner,,DEM,Cody Garrett,45,22,23
+Medina,3C,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,250,149,101
+Medina,3C,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,163,88,75
+Medina,3C,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,100,53,47
+Medina,3C,"Justice, Supreme Court Place 5",,REP,Rick Green,228,121,107
+Medina,3C,"Justice, Supreme Court Place 5",,REP,Paul Green,177,112,65
+Medina,3C,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,109,52,57
+Medina,3C,"Justice, Supreme Court Place 9",,REP,Joe Pool,224,124,100
+Medina,3C,"Justice, Supreme Court Place 9",,REP,Eva Guzman,186,114,72
+Medina,3C,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,97,51,46
+Medina,3C,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,130,76,54
+Medina,3C,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,157,86,71
+Medina,3C,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,106,68,38
+Medina,3C,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",95,51,44
+Medina,3C,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,169,92,77
+Medina,3C,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,47,34,13
+Medina,3C,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,85,45,40
+Medina,3C,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,93,58,35
+Medina,3C,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,98,50,48
+Medina,3C,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,219,114,105
+Medina,3C,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,160,108,52
+Medina,3C,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,95,51,44
+Medina,3C,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,77,33,44
+Medina,3C,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,30,14,16
+Medina,3C,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",18,9,9
+Medina,3C,State Senator,19,REP,Peter P. Flores,359,204,155
+Medina,3C,State Senator,19,DEM,Helen Madia,37,18,19
+Medina,3C,State Senator,19,DEM,Carlos I. Uresti ,102,40,62
+Medina,3C,State Representative,53,REP,Andrew Murr,373,213,160
+Medina,3C,State Representative,53,DEM,Stephanie Lochte Ertel,97,51,46
+Medina,3C,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,353,202,151
+Medina,3C,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,106,52,54
+Medina,3C,PROPOSITION 1,,REP,FOR,352,210,142
+Medina,3C,PROPOSITION 1,,REP,AGAINST,105,42,63
+Medina,3C,PROPOSITION 2,,REP,FOR,308,162,146
+Medina,3C,PROPOSITION 2,,REP,AGAINST,160,95,65
+Medina,3C,PROPOSITION 3,,REP,FOR,374,205,169
+Medina,3C,PROPOSITION 3,,REP,AGAINST,86,49,37
+Medina,3C,PROPOSITION 4,,REP,FOR,439,241,198
+Medina,3C,PROPOSITION 4,,REP,AGAINST,21,12,9
+Medina,3C,REFERENDA ITEM 1,,DEM,FOR,121,57,64
+Medina,3C,REFERENDA ITEM 1,,DEM,AGAINST,8,4,4
+Medina,3C,REFERENDA ITEM 2,,DEM,FOR,117,57,60
+Medina,3C,REFERENDA ITEM 2,,DEM,AGAINST,7,2,5
+Medina,3C,REFERENDA ITEM 3,,DEM,FOR,118,56,62
+Medina,3C,REFERENDA ITEM 3,,DEM,AGAINST,8,4,4
+Medina,3C,REFERENDA ITEM 4,,DEM,FOR,120,55,65
+Medina,3C,REFERENDA ITEM 4,,DEM,AGAINST,7,5,2
+Medina,3C,REFERENDA ITEM 5,,DEM,FOR,88,44,44
+Medina,3C,REFERENDA ITEM 5,,DEM,AGAINST,38,17,21
+Medina,3C,REFERENDA ITEM 6,,DEM,FOR,117,57,60
+Medina,3C,REFERENDA ITEM 6,,DEM,AGAINST,12,5,7
+Medina,3D,Registered Voters - Total,,,,2669,,
+Medina,3D,President,,REP,Carly Fiorina,1,0,1
+Medina,3D,President,,REP,Rick Santorum,0,0,0
+Medina,3D,President,,REP,Marco Rubio,43,15,28
+Medina,3D,President,,REP,Rand Paul,2,2,0
+Medina,3D,President,,REP,Mike Huckabee,0,0,0
+Medina,3D,President,,REP,Elizabeth Gray,0,0,0
+Medina,3D,President,,REP,Chris Christie,0,0,0
+Medina,3D,President,,REP,Jeb Bush,7,6,1
+Medina,3D,President,,REP,Ted Cruz,137,78,59
+Medina,3D,President,,REP,Lindsey Graham,0,0,0
+Medina,3D,President,,REP,Ben Carson,12,6,6
+Medina,3D,President,,REP,Donald J. Trump,44,22,22
+Medina,3D,President,,REP,John R. Kasich,3,1,2
+Medina,3D,President,,REP,Uncommitted,9,4,5
+Medina,3D,President,,DEM,Willie L. Wilson,0,0,0
+Medina,3D,President,,DEM,Star Locke,1,1,0
+Medina,3D,President,,DEM,Hillary Clinton,163,69,94
+Medina,3D,President,,DEM,Keith Judd,0,0,0
+Medina,3D,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
+Medina,3D,President,,DEM,Martin J. O'Malley,1,1,0
+Medina,3D,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,3D,President,,DEM,Bernie Sanders,48,15,33
+Medina,3D,U.S. House,23,REP,"William ""Hart"" Peterson",36,16,20
+Medina,3D,U.S. House,23,REP,Will Hurd,188,107,81
+Medina,3D,U.S. House,23,DEM,Lee Keenen,13,4,9
+Medina,3D,U.S. House,23,DEM,Pete P. Gallego,183,81,102
+Medina,3D,Railroad Commissioner,,REP,Gary Gates,49,33,16
+Medina,3D,Railroad Commissioner,,REP,John Greytok,1,0,1
+Medina,3D,Railroad Commissioner,,REP,Weston Martinez,39,13,26
+Medina,3D,Railroad Commissioner,,REP,Ron Hale,19,12,7
+Medina,3D,Railroad Commissioner,,REP,Lance N. Christian,23,15,8
+Medina,3D,Railroad Commissioner,,REP,Doug Jeffrey,17,9,8
+Medina,3D,Railroad Commissioner,,REP,Wayne Christian,48,26,22
+Medina,3D,Railroad Commissioner,,DEM,Lon Burnam,21,9,12
+Medina,3D,Railroad Commissioner,,DEM,Grady Yarbrough,63,28,35
+Medina,3D,Railroad Commissioner,,DEM,Cody Garrett,65,27,38
+Medina,3D,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,133,71,62
+Medina,3D,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,67,41,26
+Medina,3D,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,132,67,65
+Medina,3D,"Justice, Supreme Court Place 5",,REP,Rick Green,112,58,54
+Medina,3D,"Justice, Supreme Court Place 5",,REP,Paul Green,80,46,34
+Medina,3D,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,161,73,88
+Medina,3D,"Justice, Supreme Court Place 9",,REP,Joe Pool,76,51,25
+Medina,3D,"Justice, Supreme Court Place 9",,REP,Eva Guzman,126,61,65
+Medina,3D,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,141,67,74
+Medina,3D,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,59,34,25
+Medina,3D,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,99,52,47
+Medina,3D,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,26,17,9
+Medina,3D,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",137,64,73
+Medina,3D,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,87,45,42
+Medina,3D,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,22,11,11
+Medina,3D,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,43,22,21
+Medina,3D,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,36,28,8
+Medina,3D,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,138,65,73
+Medina,3D,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,115,59,56
+Medina,3D,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,66,40,26
+Medina,3D,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,135,65,70
+Medina,3D,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,114,50,64
+Medina,3D,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,26,11,15
+Medina,3D,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",29,14,15
+Medina,3D,State Senator,19,REP,Peter P. Flores,176,95,81
+Medina,3D,State Senator,19,DEM,Helen Madia,60,25,35
+Medina,3D,State Senator,19,DEM,Carlos I. Uresti ,128,60,68
+Medina,3D,State Representative,53,REP,Andrew Murr,193,111,82
+Medina,3D,State Representative,53,DEM,Stephanie Lochte Ertel,137,63,74
+Medina,3D,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,174,96,78
+Medina,3D,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,163,71,92
+Medina,3D,PROPOSITION 1,,REP,FOR,152,85,67
+Medina,3D,PROPOSITION 1,,REP,AGAINST,76,40,36
+Medina,3D,PROPOSITION 2,,REP,FOR,140,75,65
+Medina,3D,PROPOSITION 2,,REP,AGAINST,87,48,39
+Medina,3D,PROPOSITION 3,,REP,FOR,178,96,82
+Medina,3D,PROPOSITION 3,,REP,AGAINST,51,31,20
+Medina,3D,PROPOSITION 4,,REP,FOR,202,109,93
+Medina,3D,PROPOSITION 4,,REP,AGAINST,26,16,10
+Medina,3D,REFERENDA ITEM 1,,DEM,FOR,179,78,101
+Medina,3D,REFERENDA ITEM 1,,DEM,AGAINST,15,9,6
+Medina,3D,REFERENDA ITEM 2,,DEM,FOR,169,76,93
+Medina,3D,REFERENDA ITEM 2,,DEM,AGAINST,22,8,14
+Medina,3D,REFERENDA ITEM 3,,DEM,FOR,172,75,97
+Medina,3D,REFERENDA ITEM 3,,DEM,AGAINST,18,12,6
+Medina,3D,REFERENDA ITEM 4,,DEM,FOR,180,80,100
+Medina,3D,REFERENDA ITEM 4,,DEM,AGAINST,9,3,6
+Medina,3D,REFERENDA ITEM 5,,DEM,FOR,116,58,58
+Medina,3D,REFERENDA ITEM 5,,DEM,AGAINST,82,30,52
+Medina,3D,REFERENDA ITEM 6,,DEM,FOR,175,74,101
+Medina,3D,REFERENDA ITEM 6,,DEM,AGAINST,21,10,11
+Medina,4A,Registered Voters - Total,,,,1709,,
+Medina,4A,President,,REP,Carly Fiorina,0,0,0
+Medina,4A,President,,REP,Rick Santorum,1,0,1
+Medina,4A,President,,REP,Marco Rubio,48,40,8
+Medina,4A,President,,REP,Rand Paul,0,0,0
+Medina,4A,President,,REP,Mike Huckabee,2,1,1
+Medina,4A,President,,REP,Elizabeth Gray,0,0,0
+Medina,4A,President,,REP,Chris Christie,1,1,0
+Medina,4A,President,,REP,Jeb Bush,5,4,1
+Medina,4A,President,,REP,Ted Cruz,233,140,93
+Medina,4A,President,,REP,Lindsey Graham,0,0,0
+Medina,4A,President,,REP,Ben Carson,17,14,3
+Medina,4A,President,,REP,Donald J. Trump,125,77,48
+Medina,4A,President,,REP,John R. Kasich,5,4,1
+Medina,4A,President,,REP,Uncommitted,10,7,3
+Medina,4A,President,,DEM,Willie L. Wilson,0,0,0
+Medina,4A,President,,DEM,Star Locke,0,0,0
+Medina,4A,President,,DEM,Hillary Clinton,46,18,28
+Medina,4A,President,,DEM,Keith Judd,0,0,0
+Medina,4A,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
+Medina,4A,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,4A,President,,DEM,Calvis L. Hawes,1,0,1
+Medina,4A,President,,DEM,Bernie Sanders,7,1,6
+Medina,4A,U.S. House,23,REP,"William ""Hart"" Peterson",86,54,32
+Medina,4A,U.S. House,23,REP,Will Hurd,322,209,113
+Medina,4A,U.S. House,23,DEM,Lee Keenen,3,1,2
+Medina,4A,U.S. House,23,DEM,Pete P. Gallego,47,18,29
+Medina,4A,Railroad Commissioner,,REP,Gary Gates,139,92,47
+Medina,4A,Railroad Commissioner,,REP,John Greytok,18,15,3
+Medina,4A,Railroad Commissioner,,REP,Weston Martinez,15,9,6
+Medina,4A,Railroad Commissioner,,REP,Ron Hale,53,34,19
+Medina,4A,Railroad Commissioner,,REP,Lance N. Christian,25,12,13
+Medina,4A,Railroad Commissioner,,REP,Doug Jeffrey,24,11,13
+Medina,4A,Railroad Commissioner,,REP,Wayne Christian,80,51,29
+Medina,4A,Railroad Commissioner,,DEM,Lon Burnam,8,4,4
+Medina,4A,Railroad Commissioner,,DEM,Grady Yarbrough,20,6,14
+Medina,4A,Railroad Commissioner,,DEM,Cody Garrett,17,6,11
+Medina,4A,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,206,130,76
+Medina,4A,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,157,101,56
+Medina,4A,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,32,13,19
+Medina,4A,"Justice, Supreme Court Place 5",,REP,Rick Green,213,125,88
+Medina,4A,"Justice, Supreme Court Place 5",,REP,Paul Green,143,101,42
+Medina,4A,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,36,14,22
+Medina,4A,"Justice, Supreme Court Place 9",,REP,Joe Pool,208,139,69
+Medina,4A,"Justice, Supreme Court Place 9",,REP,Eva Guzman,150,89,61
+Medina,4A,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,31,12,19
+Medina,4A,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,142,80,62
+Medina,4A,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,123,79,44
+Medina,4A,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,68,49,19
+Medina,4A,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",31,12,19
+Medina,4A,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,178,122,56
+Medina,4A,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,35,16,19
+Medina,4A,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,65,34,31
+Medina,4A,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,64,46,18
+Medina,4A,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,31,12,19
+Medina,4A,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,205,127,78
+Medina,4A,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,122,78,44
+Medina,4A,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,31,12,19
+Medina,4A,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,25,9,16
+Medina,4A,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,7,4,3
+Medina,4A,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",7,2,5
+Medina,4A,State Senator,19,REP,Peter P. Flores,309,195,114
+Medina,4A,State Senator,19,DEM,Helen Madia,10,3,7
+Medina,4A,State Senator,19,DEM,Carlos I. Uresti ,39,17,22
+Medina,4A,State Representative,53,REP,Andrew Murr,333,213,120
+Medina,4A,State Representative,53,DEM,Stephanie Lochte Ertel,29,11,18
+Medina,4A,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,312,197,115
+Medina,4A,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,34,12,22
+Medina,4A,PROPOSITION 1,,REP,FOR,314,193,121
+Medina,4A,PROPOSITION 1,,REP,AGAINST,103,75,28
+Medina,4A,PROPOSITION 2,,REP,FOR,274,169,105
+Medina,4A,PROPOSITION 2,,REP,AGAINST,152,106,46
+Medina,4A,PROPOSITION 3,,REP,FOR,351,226,125
+Medina,4A,PROPOSITION 3,,REP,AGAINST,63,39,24
+Medina,4A,PROPOSITION 4,,REP,FOR,404,260,144
+Medina,4A,PROPOSITION 4,,REP,AGAINST,14,8,6
+Medina,4A,REFERENDA ITEM 1,,DEM,FOR,40,18,22
+Medina,4A,REFERENDA ITEM 1,,DEM,AGAINST,5,1,4
+Medina,4A,REFERENDA ITEM 2,,DEM,FOR,39,19,20
+Medina,4A,REFERENDA ITEM 2,,DEM,AGAINST,5,0,5
+Medina,4A,REFERENDA ITEM 3,,DEM,FOR,39,17,22
+Medina,4A,REFERENDA ITEM 3,,DEM,AGAINST,6,2,4
+Medina,4A,REFERENDA ITEM 4,,DEM,FOR,43,16,27
+Medina,4A,REFERENDA ITEM 4,,DEM,AGAINST,3,1,2
+Medina,4A,REFERENDA ITEM 5,,DEM,FOR,31,11,20
+Medina,4A,REFERENDA ITEM 5,,DEM,AGAINST,15,9,6
+Medina,4A,REFERENDA ITEM 6,,DEM,FOR,40,18,22
+Medina,4A,REFERENDA ITEM 6,,DEM,AGAINST,5,1,4
+Medina,4B,Registered Voters - Total,,,,3423,,
+Medina,4B,President,,REP,Carly Fiorina,0,0,0
+Medina,4B,President,,REP,Rick Santorum,1,1,0
+Medina,4B,President,,REP,Marco Rubio,112,70,42
+Medina,4B,President,,REP,Rand Paul,3,2,1
+Medina,4B,President,,REP,Mike Huckabee,5,3,2
+Medina,4B,President,,REP,Elizabeth Gray,1,1,0
+Medina,4B,President,,REP,Chris Christie,1,1,0
+Medina,4B,President,,REP,Jeb Bush,14,13,1
+Medina,4B,President,,REP,Ted Cruz,331,172,159
+Medina,4B,President,,REP,Lindsey Graham,1,0,1
+Medina,4B,President,,REP,Ben Carson,42,32,10
+Medina,4B,President,,REP,Donald J. Trump,249,149,100
+Medina,4B,President,,REP,John R. Kasich,12,9,3
+Medina,4B,President,,REP,Uncommitted,13,9,4
+Medina,4B,President,,DEM,Willie L. Wilson,0,0,0
+Medina,4B,President,,DEM,Star Locke,1,0,1
+Medina,4B,President,,DEM,Hillary Clinton,102,49,53
+Medina,4B,President,,DEM,Keith Judd,1,1,0
+Medina,4B,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
+Medina,4B,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,4B,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,4B,President,,DEM,Bernie Sanders,34,16,18
+Medina,4B,U.S. House,23,REP,"William ""Hart"" Peterson",144,74,70
+Medina,4B,U.S. House,23,REP,Will Hurd,545,346,199
+Medina,4B,U.S. House,23,DEM,Lee Keenen,15,7,8
+Medina,4B,U.S. House,23,DEM,Pete P. Gallego,116,59,57
+Medina,4B,Railroad Commissioner,,REP,Gary Gates,209,132,77
+Medina,4B,Railroad Commissioner,,REP,John Greytok,19,12,7
+Medina,4B,Railroad Commissioner,,REP,Weston Martinez,55,33,22
+Medina,4B,Railroad Commissioner,,REP,Ron Hale,95,52,43
+Medina,4B,Railroad Commissioner,,REP,Lance N. Christian,50,24,26
+Medina,4B,Railroad Commissioner,,REP,Doug Jeffrey,45,25,20
+Medina,4B,Railroad Commissioner,,REP,Wayne Christian,141,94,47
+Medina,4B,Railroad Commissioner,,DEM,Lon Burnam,19,10,9
+Medina,4B,Railroad Commissioner,,DEM,Grady Yarbrough,64,35,29
+Medina,4B,Railroad Commissioner,,DEM,Cody Garrett,36,16,20
+Medina,4B,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,395,243,152
+Medina,4B,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,235,139,96
+Medina,4B,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,103,55,48
+Medina,4B,"Justice, Supreme Court Place 5",,REP,Rick Green,374,212,162
+Medina,4B,"Justice, Supreme Court Place 5",,REP,Paul Green,238,160,78
+Medina,4B,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,117,59,58
+Medina,4B,"Justice, Supreme Court Place 9",,REP,Joe Pool,339,216,123
+Medina,4B,"Justice, Supreme Court Place 9",,REP,Eva Guzman,280,155,125
+Medina,4B,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,104,55,49
+Medina,4B,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,185,105,80
+Medina,4B,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,270,168,102
+Medina,4B,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,131,84,47
+Medina,4B,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",105,52,53
+Medina,4B,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,295,179,116
+Medina,4B,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,62,35,27
+Medina,4B,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,101,62,39
+Medina,4B,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,148,95,53
+Medina,4B,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,107,54,53
+Medina,4B,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,357,219,138
+Medina,4B,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,224,134,90
+Medina,4B,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,110,55,55
+Medina,4B,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,75,38,37
+Medina,4B,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,23,13,10
+Medina,4B,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",24,11,13
+Medina,4B,State Senator,19,REP,Peter P. Flores,567,344,223
+Medina,4B,State Senator,19,DEM,Helen Madia,38,21,17
+Medina,4B,State Senator,19,DEM,Carlos I. Uresti ,93,46,47
+Medina,4B,State Representative,53,REP,Andrew Murr,590,362,228
+Medina,4B,State Representative,53,DEM,Stephanie Lochte Ertel,104,52,52
+Medina,4B,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,570,347,223
+Medina,4B,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,113,57,56
+Medina,4B,PROPOSITION 1,,REP,FOR,539,330,209
+Medina,4B,PROPOSITION 1,,REP,AGAINST,181,108,73
+Medina,4B,PROPOSITION 2,,REP,FOR,464,275,189
+Medina,4B,PROPOSITION 2,,REP,AGAINST,265,165,100
+Medina,4B,PROPOSITION 3,,REP,FOR,602,368,234
+Medina,4B,PROPOSITION 3,,REP,AGAINST,108,57,51
+Medina,4B,PROPOSITION 4,,REP,FOR,691,422,269
+Medina,4B,PROPOSITION 4,,REP,AGAINST,26,13,13
+Medina,4B,REFERENDA ITEM 1,,DEM,FOR,123,62,61
+Medina,4B,REFERENDA ITEM 1,,DEM,AGAINST,8,4,4
+Medina,4B,REFERENDA ITEM 2,,DEM,FOR,126,62,64
+Medina,4B,REFERENDA ITEM 2,,DEM,AGAINST,8,5,3
+Medina,4B,REFERENDA ITEM 3,,DEM,FOR,117,62,55
+Medina,4B,REFERENDA ITEM 3,,DEM,AGAINST,15,5,10
+Medina,4B,REFERENDA ITEM 4,,DEM,FOR,121,60,61
+Medina,4B,REFERENDA ITEM 4,,DEM,AGAINST,13,7,6
+Medina,4B,REFERENDA ITEM 5,,DEM,FOR,96,49,47
+Medina,4B,REFERENDA ITEM 5,,DEM,AGAINST,41,19,22
+Medina,4B,REFERENDA ITEM 6,,DEM,FOR,119,60,59
+Medina,4B,REFERENDA ITEM 6,,DEM,AGAINST,15,8,7
+Medina,4C,Registered Voters - Total,,,,1491,,
+Medina,4C,President,,REP,Carly Fiorina,0,0,0
+Medina,4C,President,,REP,Rick Santorum,0,0,0
+Medina,4C,President,,REP,Marco Rubio,21,9,12
+Medina,4C,President,,REP,Rand Paul,0,0,0
+Medina,4C,President,,REP,Mike Huckabee,0,0,0
+Medina,4C,President,,REP,Elizabeth Gray,0,0,0
+Medina,4C,President,,REP,Chris Christie,0,0,0
+Medina,4C,President,,REP,Jeb Bush,1,1,0
+Medina,4C,President,,REP,Ted Cruz,80,39,41
+Medina,4C,President,,REP,Lindsey Graham,0,0,0
+Medina,4C,President,,REP,Ben Carson,7,1,6
+Medina,4C,President,,REP,Donald J. Trump,50,26,24
+Medina,4C,President,,REP,John R. Kasich,4,3,1
+Medina,4C,President,,REP,Uncommitted,7,5,2
+Medina,4C,President,,DEM,Willie L. Wilson,0,0,0
+Medina,4C,President,,DEM,Star Locke,0,0,0
+Medina,4C,President,,DEM,Hillary Clinton,67,9,58
+Medina,4C,President,,DEM,Keith Judd,0,0,0
+Medina,4C,President,,DEM,"Roque ""Rocky"" De La Fuente",2,1,1
+Medina,4C,President,,DEM,Martin J. O'Malley,0,0,0
+Medina,4C,President,,DEM,Calvis L. Hawes,0,0,0
+Medina,4C,President,,DEM,Bernie Sanders,20,9,11
+Medina,4C,U.S. House,23,REP,"William ""Hart"" Peterson",36,15,21
+Medina,4C,U.S. House,23,REP,Will Hurd,123,67,56
+Medina,4C,U.S. House,23,DEM,Lee Keenen,10,5,5
+Medina,4C,U.S. House,23,DEM,Pete P. Gallego,70,13,57
+Medina,4C,Railroad Commissioner,,REP,Gary Gates,34,19,15
+Medina,4C,Railroad Commissioner,,REP,John Greytok,5,3,2
+Medina,4C,Railroad Commissioner,,REP,Weston Martinez,27,13,14
+Medina,4C,Railroad Commissioner,,REP,Ron Hale,20,9,11
+Medina,4C,Railroad Commissioner,,REP,Lance N. Christian,23,9,14
+Medina,4C,Railroad Commissioner,,REP,Doug Jeffrey,14,7,7
+Medina,4C,Railroad Commissioner,,REP,Wayne Christian,33,18,15
+Medina,4C,Railroad Commissioner,,DEM,Lon Burnam,6,1,5
+Medina,4C,Railroad Commissioner,,DEM,Grady Yarbrough,35,9,26
+Medina,4C,Railroad Commissioner,,DEM,Cody Garrett,28,4,24
+Medina,4C,"Justice, Supreme Court Place 3",,REP,Debra Lehmann,104,58,46
+Medina,4C,"Justice, Supreme Court Place 3",,REP,Micahel Massengale,48,21,27
+Medina,4C,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,57,14,43
+Medina,4C,"Justice, Supreme Court Place 5",,REP,Rick Green,93,49,44
+Medina,4C,"Justice, Supreme Court Place 5",,REP,Paul Green,56,26,30
+Medina,4C,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,75,15,60
+Medina,4C,"Justice, Supreme Court Place 9",,REP,Joe Pool,66,33,33
+Medina,4C,"Justice, Supreme Court Place 9",,REP,Eva Guzman,87,46,41
+Medina,4C,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,68,15,53
+Medina,4C,"Judge, Court of Criminal Appeals Place 2",,REP,Ray Wheless,62,26,36
+Medina,4C,"Judge, Court of Criminal Appeals Place 2",,REP,Mary Lou Keel,55,32,23
+Medina,4C,"Judge, Court of Criminal Appeals Place 2",,REP,Chris Oldner,30,17,13
+Medina,4C,"Judge, Court of Criminal Appeals Place 2",,DEM,"Lawerence ""Larry"" Meyers",66,13,53
+Medina,4C,"Judge, Court of Criminal Appeals Place 5",,REP,Scott Walker,64,36,28
+Medina,4C,"Judge, Court of Criminal Appeals Place 5",,REP,Brent Webster,18,9,9
+Medina,4C,"Judge, Court of Criminal Appeals Place 5",,REP,Steve Smith,33,16,17
+Medina,4C,"Judge, Court of Criminal Appeals Place 5",,REP,Sid Harle,37,16,21
+Medina,4C,"Judge, Court of Criminal Appeals Place 5",,DEM,Betsy Johnson,66,14,52
+Medina,4C,"Judge, Court of Criminal Appeals Place 6",,REP,Richard Davis,96,47,49
+Medina,4C,"Judge, Court of Criminal Appeals Place 6",,REP,Michael E. Keasler,54,29,25
+Medina,4C,"Judge, Court of Criminal Appeals Place 6",,DEM,Robert Burns,64,13,51
+Medina,4C,"Member, State Board of Education Dis. 1",,DEM,Georgina Perez,46,10,36
+Medina,4C,"Member, State Board of Education Dis. 1",,DEM,Lynn Oliver,12,5,7
+Medina,4C,"Member, State Board of Education Dis. 1",,DEM,"Joe Fierro, Jr.",16,2,14
+Medina,4C,State Senator,19,REP,Peter P. Flores,134,68,66
+Medina,4C,State Senator,19,DEM,Helen Madia,41,10,31
+Medina,4C,State Senator,19,DEM,Carlos I. Uresti ,41,8,33
+Medina,4C,State Representative,53,REP,Andrew Murr,140,71,69
+Medina,4C,State Representative,53,DEM,Stephanie Lochte Ertel,62,14,48
+Medina,4C,Justice 4th Court of Appeals District Place 6,,REP,Jason Pulliam,138,70,68
+Medina,4C,Justice 4th Court of Appeals District Place 6,,DEM,Irene Rios,73,15,58
+Medina,4C,PROPOSITION 1,,REP,FOR,122,60,62
+Medina,4C,PROPOSITION 1,,REP,AGAINST,43,23,20
+Medina,4C,PROPOSITION 2,,REP,FOR,106,51,55
+Medina,4C,PROPOSITION 2,,REP,AGAINST,57,33,24
+Medina,4C,PROPOSITION 3,,REP,FOR,136,69,67
+Medina,4C,PROPOSITION 3,,REP,AGAINST,26,14,12
+Medina,4C,PROPOSITION 4,,REP,FOR,154,78,76
+Medina,4C,PROPOSITION 4,,REP,AGAINST,6,2,4
+Medina,4C,REFERENDA ITEM 1,,DEM,FOR,70,17,53
+Medina,4C,REFERENDA ITEM 1,,DEM,AGAINST,9,1,8
+Medina,4C,REFERENDA ITEM 2,,DEM,FOR,75,17,58
+Medina,4C,REFERENDA ITEM 2,,DEM,AGAINST,5,1,4
+Medina,4C,REFERENDA ITEM 3,,DEM,FOR,71,16,55
+Medina,4C,REFERENDA ITEM 3,,DEM,AGAINST,7,2,5
+Medina,4C,REFERENDA ITEM 4,,DEM,FOR,75,16,59
+Medina,4C,REFERENDA ITEM 4,,DEM,AGAINST,4,2,2
+Medina,4C,REFERENDA ITEM 5,,DEM,FOR,52,15,37
+Medina,4C,REFERENDA ITEM 5,,DEM,AGAINST,29,3,26
+Medina,4C,REFERENDA ITEM 6,,DEM,FOR,75,16,59
+Medina,4C,REFERENDA ITEM 6,,DEM,AGAINST,6,2,4
