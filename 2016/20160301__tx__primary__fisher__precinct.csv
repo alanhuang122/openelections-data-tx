@@ -1,0 +1,345 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day
+Fisher,1,Registered Voters - Total,,,,728,,
+Fisher,1,President,,DEM,Martin J O'Malley,10,9,1
+Fisher,1,President,,DEM,Bernie Sanders,42,17,25
+Fisher,1,President,,DEM,Keith Judd,4,1,3
+Fisher,1,President,,DEM,"Roque ""Rocky"" De La Fuente",2,0,2
+Fisher,1,President,,DEM,Calvis L Hawes,0,0,0
+Fisher,1,President,,DEM,Willie L Wilson,2,0,2
+Fisher,1,President,,DEM,Hillary Clinton,41,15,26
+Fisher,1,President,,DEM,Star Locke,1,1,0
+Fisher,1,Railroad Commissioner,,DEM,Grady Yarbrough,41,19,22
+Fisher,1,Railroad Commissioner,,DEM,Cody Garrett,45,20,25
+Fisher,1,Railroad Commissioner,,DEM,Lon Burnam,9,2,7
+Fisher,1,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,87,37,50
+Fisher,1,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,83,33,50
+Fisher,1,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,84,35,49
+Fisher,1,"Judge, Court of Criminal Appeals Pl 2",,DEM,"Lawrence ""Larry"" Meyers",89,37,52
+Fisher,1,"Judge, Court of Criminal Appeals Pl 5",,DEM,Betsy Johnson,86,35,51
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 6",,DEM,Robert Burns,86,36,50
+Fisher,1,Ref 1,,DEM,Yes,78,29,49
+Fisher,1,Ref 1,,DEM,No,60,34,26
+Fisher,1,Ref 2,,DEM,Yes,99,39,60
+Fisher,1,Ref 2,,DEM,No,32,21,11
+Fisher,1,Ref 3,,DEM,Yes,70,24,46
+Fisher,1,Ref 3,,DEM,No,58,34,24
+Fisher,1,Ref 4,,DEM,Yes,90,36,54
+Fisher,1,Ref 4,,DEM,No,34,23,11
+Fisher,1,Ref 5,,DEM,Yes,91,38,53
+Fisher,1,Ref 5,,DEM,No,44,22,22
+Fisher,1,Ref 6,,DEM,Yes,68,24,44
+Fisher,1,Ref 6,,DEM,No,62,34,28
+Fisher,4,Registered Voters - Total,,,,735,,
+Fisher,4,President,,DEM,Martin J O'Malley,2,1,1
+Fisher,4,President,,DEM,Bernie Sanders,33,14,19
+Fisher,4,President,,DEM,Keith Judd,1,1,0
+Fisher,4,President,,DEM,"Roque ""Rocky"" De La Fuente",5,2,3
+Fisher,4,President,,DEM,Calvis L Hawes,0,0,0
+Fisher,4,President,,DEM,Willie L Wilson,4,2,2
+Fisher,4,President,,DEM,Hillary Clinton,54,30,24
+Fisher,4,President,,DEM,Star Locke,1,1,0
+Fisher,4,Railroad Commissioner,,DEM,Grady Yarbrough,34,19,15
+Fisher,4,Railroad Commissioner,,DEM,Cody Garrett,39,18,21
+Fisher,4,Railroad Commissioner,,DEM,Lon Burnam,4,2,2
+Fisher,4,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,53,27,26
+Fisher,4,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,58,30,28
+Fisher,4,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,56,31,25
+Fisher,4,"Judge, Court of Criminal Appeals Pl 2",,DEM,"Lawrence ""Larry"" Meyers",55,32,23
+Fisher,4,"Judge, Court of Criminal Appeals Pl 5",,DEM,Betsy Johnson,53,30,23
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 6",,DEM,Robert Burns,57,32,25
+Fisher,4,Ref 1,,DEM,Yes,57,29,28
+Fisher,4,Ref 1,,DEM,No,41,22,19
+Fisher,4,Ref 2,,DEM,Yes,69,32,37
+Fisher,4,Ref 2,,DEM,No,16,9,7
+Fisher,4,Ref 3,,DEM,Yes,56,26,30
+Fisher,4,Ref 3,,DEM,No,32,15,17
+Fisher,4,Ref 4,,DEM,Yes,58,25,33
+Fisher,4,Ref 4,,DEM,No,20,12,8
+Fisher,4,Ref 5,,DEM,Yes,56,27,29
+Fisher,4,Ref 5,,DEM,No,30,16,14
+Fisher,4,Ref 6,,DEM,Yes,50,24,26
+Fisher,4,Ref 6,,DEM,No,34,18,16
+Fisher,10,Registered Voters - Total,,,,592,,
+Fisher,10,President,,DEM,Martin J O'Malley,6,0,6
+Fisher,10,President,,DEM,Bernie Sanders,30,9,21
+Fisher,10,President,,DEM,Keith Judd,1,1,0
+Fisher,10,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
+Fisher,10,President,,DEM,Calvis L Hawes,1,1,0
+Fisher,10,President,,DEM,Willie L Wilson,1,0,1
+Fisher,10,President,,DEM,Hillary Clinton,40,8,32
+Fisher,10,President,,DEM,Star Locke,3,0,3
+Fisher,10,Railroad Commissioner,,DEM,Grady Yarbrough,34,10,24
+Fisher,10,Railroad Commissioner,,DEM,Cody Garrett,27,5,22
+Fisher,10,Railroad Commissioner,,DEM,Lon Burnam,7,0,7
+Fisher,10,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,63,14,49
+Fisher,10,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,63,14,49
+Fisher,10,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,66,14,52
+Fisher,10,"Judge, Court of Criminal Appeals Pl 2",,DEM,"Lawrence ""Larry"" Meyers",63,14,49
+Fisher,10,"Judge, Court of Criminal Appeals Pl 5",,DEM,Betsy Johnson,61,14,47
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 6",,DEM,Robert Burns,62,13,49
+Fisher,10,Ref 1,,DEM,Yes,64,13,51
+Fisher,10,Ref 1,,DEM,No,35,12,23
+Fisher,10,Ref 2,,DEM,Yes,83,19,64
+Fisher,10,Ref 2,,DEM,No,10,5,5
+Fisher,10,Ref 3,,DEM,Yes,66,12,54
+Fisher,10,Ref 3,,DEM,No,26,12,14
+Fisher,10,Ref 4,,DEM,Yes,69,16,53
+Fisher,10,Ref 4,,DEM,No,17,5,12
+Fisher,10,Ref 5,,DEM,Yes,67,18,49
+Fisher,10,Ref 5,,DEM,No,28,5,23
+Fisher,10,Ref 6,,DEM,Yes,62,13,49
+Fisher,10,Ref 6,,DEM,No,36,10,26
+Fisher,12,Registered Voters - Total,,,,689,,
+Fisher,12,President,,DEM,Martin J O'Malley,2,0,2
+Fisher,12,President,,DEM,Bernie Sanders,34,4,30
+Fisher,12,President,,DEM,Keith Judd,0,0,0
+Fisher,12,President,,DEM,"Roque ""Rocky"" De La Fuente",1,1,0
+Fisher,12,President,,DEM,Calvis L Hawes,0,0,0
+Fisher,12,President,,DEM,Willie L Wilson,3,1,2
+Fisher,12,President,,DEM,Hillary Clinton,73,15,58
+Fisher,12,President,,DEM,Star Locke,0,0,0
+Fisher,12,Railroad Commissioner,,DEM,Grady Yarbrough,44,10,34
+Fisher,12,Railroad Commissioner,,DEM,Cody Garrett,45,7,38
+Fisher,12,Railroad Commissioner,,DEM,Lon Burnam,9,3,6
+Fisher,12,"Justice, Supreme Court Place 3",,DEM,Mike Westergren,78,17,61
+Fisher,12,"Justice, Supreme Court Place 5",,DEM,Dori Contreras Garza,81,17,64
+Fisher,12,"Justice, Supreme Court Place 9",,DEM,Savannah Robinson,78,17,61
+Fisher,12,"Judge, Court of Criminal Appeals Pl 2",,DEM,"Lawrence ""Larry"" Meyers",79,17,62
+Fisher,12,"Judge, Court of Criminal Appeals Pl 5",,DEM,Betsy Johnson,78,17,61
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 6",,DEM,Robert Burns,77,17,60
+Fisher,12,Ref 1,,DEM,Yes,87,19,68
+Fisher,12,Ref 1,,DEM,No,19,4,15
+Fisher,12,Ref 2,,DEM,Yes,83,17,66
+Fisher,12,Ref 2,,DEM,No,11,4,7
+Fisher,12,Ref 3,,DEM,Yes,71,14,57
+Fisher,12,Ref 3,,DEM,No,22,8,14
+Fisher,12,Ref 4,,DEM,Yes,77,17,60
+Fisher,12,Ref 4,,DEM,No,17,6,11
+Fisher,12,Ref 5,,DEM,Yes,72,11,61
+Fisher,12,Ref 5,,DEM,No,23,10,13
+Fisher,12,Ref 6,,DEM,Yes,60,10,50
+Fisher,12,Ref 6,,DEM,No,36,11,25
+Fisher,1,President,,REP,Mike Huckabee,2,1,1
+Fisher,1,President,,REP,Jeb Bush,1,1,0
+Fisher,1,President,,REP,Marco Rubio,13,7,6
+Fisher,1,President,,REP,Ted Cruz,61,17,44
+Fisher,1,President,,REP,Chris Christie,0,0,0
+Fisher,1,President,,REP,Rick Santorum,0,0,0
+Fisher,1,President,,REP,Carly Fiorina,0,0,0
+Fisher,1,President,,REP,Rand Paul,0,0,0
+Fisher,1,President,,REP,Ben Carson,9,5,4
+Fisher,1,President,,REP,Lindsey Graham,0,0,0
+Fisher,1,President,,REP,John R Kasich,4,3,1
+Fisher,1,President,,REP,Donald J Trump,44,13,31
+Fisher,1,President,,REP,Elizabeth Gray,0,0,0
+Fisher,1,President,,REP,Uncommitted,1,0,1
+Fisher,1,U.S. House,19,REP,Donald R May,13,4,9
+Fisher,1,U.S. House,19,REP,Greg Garrett,7,3,4
+Fisher,1,U.S. House,19,REP,Jodey Arrington,37,10,27
+Fisher,1,U.S. House,19,REP,Michael Bob Starr,26,8,18
+Fisher,1,U.S. House,19,REP,DeRenda Warren,5,1,4
+Fisher,1,U.S. House,19,REP,John C Key,5,1,4
+Fisher,1,U.S. House,19,REP,Glen Robertson,27,14,13
+Fisher,1,U.S. House,19,REP,Jason Corley,2,1,1
+Fisher,1,U.S. House,19,REP,Don Parrish,2,1,1
+Fisher,1,Railroad Commissioner,,REP,Weston Martinez,6,2,4
+Fisher,1,Railroad Commissioner,,REP,Doug Jeffrey,21,6,15
+Fisher,1,Railroad Commissioner,,REP,Gary Gates,21,8,13
+Fisher,1,Railroad Commissioner,,REP,Ron Hale,26,6,20
+Fisher,1,Railroad Commissioner,,REP,Lance N Christian,11,5,6
+Fisher,1,Railroad Commissioner,,REP,John Greytok,3,1,2
+Fisher,1,Railroad Commissioner,,REP,Wayne Christian,12,7,5
+Fisher,1,"Justice, Supreme Court Pl 3",,REP,Michael Massengale,65,25,40
+Fisher,1,"Justice, Supreme Court Pl 3",,REP,Debra Lehrmann,45,16,29
+Fisher,1,"Justice, Supreme Court Pl 5",,REP,Paul Green,49,14,35
+Fisher,1,"Justice, Supreme Court Pl 5",,REP,Rick Green,55,23,32
+Fisher,1,"Justice, Supreme Court Pl 9",,REP,Eva Guzman,32,15,17
+Fisher,1,"Justice, Supreme Court Pl 9",,REP,Joe Pool,72,22,50
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 2",,REP,y Wheless,32,11,21
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 2",,REP,Chris Oldner,33,10,23
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 2",,REP,Mary Lou Keel,33,14,19
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 5",,REP,Scott Walker,59,21,38
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 5",,REP,Sid Harle,10,6,4
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 5",,REP,Steve Smith,16,2,14
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 5",,REP,Brent Webster,13,5,8
+Fisher,1,"Judge, Court of Criminal Appeals, Pl 6",,REP,Michael E Keasler,59,23,36
+Fisher,1,"Judge, Court of Crimianl Appeals, Pl 6",,REP,Richard Davis,39,13,26
+Fisher,1,State Senator,28,REP,Charles Perry,105,38,67
+Fisher,1,State Representative,68,REP,Drew Springer,96,31,65
+Fisher,1,11th Court of Appeals Dist Pl 3,,REP,John Bailey,92,30,62
+Fisher,1,Prop 1,,REP,Yes,79,34,45
+Fisher,1,Prop 1,,REP,No,39,12,27
+Fisher,1,Prop 2,,REP,Yes,59,27,32
+Fisher,1,Prop 2,,REP,No,59,19,40
+Fisher,1,Prop 3,,REP,Yes,93,37,56
+Fisher,1,Prop 3,,REP,No,26,8,18
+Fisher,1,Prop 4,,REP,Yes,115,44,71
+Fisher,1,Prop 4,,REP,No,3,0,3
+Fisher,4,President,,REP,Mike Huckabee,2,2,0
+Fisher,4,President,,REP,Jeb Bush,1,1,0
+Fisher,4,President,,REP,Marco Rubio,17,6,11
+Fisher,4,President,,REP,Ted Cruz,96,31,65
+Fisher,4,President,,REP,Chris Christie,0,0,0
+Fisher,4,President,,REP,Rick Santorum,0,0,0
+Fisher,4,President,,REP,Carly Fiorina,0,0,0
+Fisher,4,President,,REP,Rand Paul,0,0,0
+Fisher,4,President,,REP,Ben Carson,10,6,4
+Fisher,4,President,,REP,Lindsey Graham,0,0,0
+Fisher,4,President,,REP,John R Kasich,5,1,4
+Fisher,4,President,,REP,Donald J Trump,34,11,23
+Fisher,4,President,,REP,Elizabeth Gray,0,0,0
+Fisher,4,President,,REP,Uncommitted,0,0,0
+Fisher,4,U.S. House,19,REP,Donald R May,19,7,12
+Fisher,4,U.S. House,19,REP,Greg Garrett,15,5,10
+Fisher,4,U.S. House,19,REP,Jodey Arrington,41,16,25
+Fisher,4,U.S. House,19,REP,Michael Bob Starr,19,5,14
+Fisher,4,U.S. House,19,REP,DeRenda Warren,3,0,3
+Fisher,4,U.S. House,19,REP,John C Key,1,1,0
+Fisher,4,U.S. House,19,REP,Glen Robertson,35,14,21
+Fisher,4,U.S. House,19,REP,Jason Corley,8,2,6
+Fisher,4,U.S. House,19,REP,Don Parrish,5,2,3
+Fisher,4,Railroad Commissioner,,REP,Weston Martinez,9,0,9
+Fisher,4,Railroad Commissioner,,REP,Doug Jeffrey,23,12,11
+Fisher,4,Railroad Commissioner,,REP,Gary Gates,19,4,15
+Fisher,4,Railroad Commissioner,,REP,Ron Hale,20,7,13
+Fisher,4,Railroad Commissioner,,REP,Lance N Christian,17,5,12
+Fisher,4,Railroad Commissioner,,REP,John Greytok,5,0,5
+Fisher,4,Railroad Commissioner,,REP,Wayne Christian,23,10,13
+Fisher,4,"Justice, Supreme Court Pl 3",,REP,Michael Massengale,73,26,47
+Fisher,4,"Justice, Supreme Court Pl 3",,REP,Debra Lehrmann,47,15,32
+Fisher,4,"Justice, Supreme Court Pl 5",,REP,Paul Green,58,23,35
+Fisher,4,"Justice, Supreme Court Pl 5",,REP,Rick Green,61,17,44
+Fisher,4,"Justice, Supreme Court Pl 9",,REP,Eva Guzman,53,20,33
+Fisher,4,"Justice, Supreme Court Pl 9",,REP,Joe Pool,67,20,47
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 2",,REP,y Wheless,37,11,26
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 2",,REP,Chris Oldner,37,14,23
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 2",,REP,Mary Lou Keel,40,13,27
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 5",,REP,Scott Walker,61,16,45
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 5",,REP,Sid Harle,14,3,11
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 5",,REP,Steve Smith,24,12,12
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 5",,REP,Brent Webster,19,7,12
+Fisher,4,"Judge, Court of Criminal Appeals, Pl 6",,REP,Michael E Keasler,59,21,38
+Fisher,4,"Judge, Court of Crimianl Appeals, Pl 6",,REP,Richard Davis,50,14,36
+Fisher,4,State Senator,28,REP,Charles Perry,114,39,75
+Fisher,4,State Representative,68,REP,Drew Springer,114,37,77
+Fisher,4,11th Court of Appeals Dist Pl 3,,REP,John Bailey,108,37,71
+Fisher,4,Prop 1,,REP,Yes,119,34,85
+Fisher,4,Prop 1,,REP,No,28,17,11
+Fisher,4,Prop 2,,REP,Yes,75,26,49
+Fisher,4,Prop 2,,REP,No,73,25,48
+Fisher,4,Prop 3,,REP,Yes,132,51,81
+Fisher,4,Prop 3,,REP,No,15,0,15
+Fisher,4,Prop 4,,REP,Yes,141,47,94
+Fisher,4,Prop 4,,REP,No,2,0,2
+Fisher,10,President,,REP,Mike Huckabee,0,0,0
+Fisher,10,President,,REP,Jeb Bush,1,1,0
+Fisher,10,President,,REP,Marco Rubio,19,3,16
+Fisher,10,President,,REP,Ted Cruz,61,15,46
+Fisher,10,President,,REP,Chris Christie,0,0,0
+Fisher,10,President,,REP,Rick Santorum,0,0,0
+Fisher,10,President,,REP,Carly Fiorina,0,0,0
+Fisher,10,President,,REP,Rand Paul,0,0,0
+Fisher,10,President,,REP,Ben Carson,6,1,5
+Fisher,10,President,,REP,Lindsey Graham,0,0,0
+Fisher,10,President,,REP,John R Kasich,2,1,1
+Fisher,10,President,,REP,Donald J Trump,22,3,19
+Fisher,10,President,,REP,Elizabeth Gray,0,0,0
+Fisher,10,President,,REP,Uncommitted,3,1,2
+Fisher,10,U.S. House,19,REP,Donald R May,8,2,6
+Fisher,10,U.S. House,19,REP,Greg Garrett,9,2,7
+Fisher,10,U.S. House,19,REP,Jodey Arrington,47,6,41
+Fisher,10,U.S. House,19,REP,Michael Bob Starr,22,5,17
+Fisher,10,U.S. House,19,REP,DeRenda Warren,3,0,3
+Fisher,10,U.S. House,19,REP,John C Key,3,1,2
+Fisher,10,U.S. House,19,REP,Glen Robertson,14,9,5
+Fisher,10,U.S. House,19,REP,Jason Corley,1,0,1
+Fisher,10,U.S. House,19,REP,Don Parrish,1,0,1
+Fisher,10,Railroad Commissioner,,REP,Weston Martinez,8,1,7
+Fisher,10,Railroad Commissioner,,REP,Doug Jeffrey,13,0,13
+Fisher,10,Railroad Commissioner,,REP,Gary Gates,12,4,8
+Fisher,10,Railroad Commissioner,,REP,Ron Hale,31,12,19
+Fisher,10,Railroad Commissioner,,REP,Lance N Christian,9,2,7
+Fisher,10,Railroad Commissioner,,REP,John Greytok,1,0,1
+Fisher,10,Railroad Commissioner,,REP,Wayne Christian,10,2,8
+Fisher,10,"Justice, Supreme Court Pl 3",,REP,Michael Massengale,46,14,32
+Fisher,10,"Justice, Supreme Court Pl 3",,REP,Debra Lehrmann,39,7,32
+Fisher,10,"Justice, Supreme Court Pl 5",,REP,Paul Green,44,13,31
+Fisher,10,"Justice, Supreme Court Pl 5",,REP,Rick Green,40,9,31
+Fisher,10,"Justice, Supreme Court Pl 9",,REP,Eva Guzman,30,5,25
+Fisher,10,"Justice, Supreme Court Pl 9",,REP,Joe Pool,57,16,41
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 2",,REP,y Wheless,25,7,18
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 2",,REP,Chris Oldner,24,6,18
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 2",,REP,Mary Lou Keel,28,7,21
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 5",,REP,Scott Walker,42,8,34
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 5",,REP,Sid Harle,12,3,9
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 5",,REP,Steve Smith,15,6,9
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 5",,REP,Brent Webster,12,3,9
+Fisher,10,"Judge, Court of Criminal Appeals, Pl 6",,REP,Michael E Keasler,37,10,27
+Fisher,10,"Judge, Court of Crimianl Appeals, Pl 6",,REP,Richard Davis,44,12,32
+Fisher,10,State Senator,28,REP,Charles Perry,83,21,62
+Fisher,10,State Representative,68,REP,Drew Springer,84,22,62
+Fisher,10,11th Court of Appeals Dist Pl 3,,REP,John Bailey,85,22,63
+Fisher,10,Prop 1,,REP,Yes,62,16,46
+Fisher,10,Prop 1,,REP,No,42,8,34
+Fisher,10,Prop 2,,REP,Yes,53,11,42
+Fisher,10,Prop 2,,REP,No,56,13,43
+Fisher,10,Prop 3,,REP,Yes,79,20,59
+Fisher,10,Prop 3,,REP,No,28,4,24
+Fisher,10,Prop 4,,REP,Yes,100,24,76
+Fisher,10,Prop 4,,REP,No,3,0,3
+Fisher,12,President,,REP,Mike Huckabee,1,0,1
+Fisher,12,President,,REP,Jeb Bush,1,0,1
+Fisher,12,President,,REP,Marco Rubio,7,1,6
+Fisher,12,President,,REP,Ted Cruz,70,11,59
+Fisher,12,President,,REP,Chris Christie,0,0,0
+Fisher,12,President,,REP,Rick Santorum,1,0,1
+Fisher,12,President,,REP,Carly Fiorina,0,0,0
+Fisher,12,President,,REP,Rand Paul,0,0,0
+Fisher,12,President,,REP,Ben Carson,6,0,6
+Fisher,12,President,,REP,Lindsey Graham,0,0,0
+Fisher,12,President,,REP,John R Kasich,1,1,0
+Fisher,12,President,,REP,Donald J Trump,25,7,18
+Fisher,12,President,,REP,Elizabeth Gray,10,10,0
+Fisher,12,President,,REP,Uncommitted,1,1,0
+Fisher,12,U.S. House,19,REP,Donald R May,10,2,8
+Fisher,12,U.S. House,19,REP,Greg Garrett,8,2,6
+Fisher,12,U.S. House,19,REP,Jodey Arrington,39,5,34
+Fisher,12,U.S. House,19,REP,Michael Bob Starr,17,3,14
+Fisher,12,U.S. House,19,REP,DeRenda Warren,3,0,3
+Fisher,12,U.S. House,19,REP,John C Key,1,0,1
+Fisher,12,U.S. House,19,REP,Glen Robertson,19,7,12
+Fisher,12,U.S. House,19,REP,Jason Corley,2,1,1
+Fisher,12,U.S. House,19,REP,Don Parrish,2,0,2
+Fisher,12,Railroad Commissioner,,REP,Weston Martinez,10,0,10
+Fisher,12,Railroad Commissioner,,REP,Doug Jeffrey,21,6,15
+Fisher,12,Railroad Commissioner,,REP,Gary Gates,16,7,9
+Fisher,12,Railroad Commissioner,,REP,Ron Hale,11,0,11
+Fisher,12,Railroad Commissioner,,REP,Lance N Christian,6,0,6
+Fisher,12,Railroad Commissioner,,REP,John Greytok,2,1,1
+Fisher,12,Railroad Commissioner,,REP,Wayne Christian,15,5,10
+Fisher,12,"Justice, Supreme Court Pl 3",,REP,Michael Massengale,52,16,36
+Fisher,12,"Justice, Supreme Court Pl 3",,REP,Debra Lehrmann,30,3,27
+Fisher,12,"Justice, Supreme Court Pl 5",,REP,Paul Green,44,11,33
+Fisher,12,"Justice, Supreme Court Pl 5",,REP,Rick Green,33,6,27
+Fisher,12,"Justice, Supreme Court Pl 9",,REP,Eva Guzman,42,11,31
+Fisher,12,"Justice, Supreme Court Pl 9",,REP,Joe Pool,36,4,32
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 2",,REP,y Wheless,29,8,21
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 2",,REP,Chris Oldner,12,2,10
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 2",,REP,Mary Lou Keel,27,8,19
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 5",,REP,Scott Walker,44,10,34
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 5",,REP,Sid Harle,7,3,4
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 5",,REP,Steve Smith,9,1,8
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 5",,REP,Brent Webster,17,4,13
+Fisher,12,"Judge, Court of Criminal Appeals, Pl 6",,REP,Michael E Keasler,36,11,25
+Fisher,12,"Judge, Court of Crimianl Appeals, Pl 6",,REP,Richard Davis,31,4,27
+Fisher,12,State Senator,28,REP,Charles Perry,75,19,56
+Fisher,12,State Representative,68,REP,Drew Springer,61,16,45
+Fisher,12,11th Court of Appeals Dist Pl 3,,REP,John Bailey,58,15,43
+Fisher,12,Prop 1,,REP,Yes,65,14,51
+Fisher,12,Prop 1,,REP,No,34,4,30
+Fisher,12,Prop 2,,REP,Yes,57,10,47
+Fisher,12,Prop 2,,REP,No,47,10,37
+Fisher,12,Prop 3,,REP,Yes,83,16,67
+Fisher,12,Prop 3,,REP,No,18,4,14
+Fisher,12,Prop 4,,REP,Yes,95,19,76
+Fisher,12,Prop 4,,REP,No,6,0,6
